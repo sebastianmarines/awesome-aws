@@ -14,18 +14,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## The Fiery Meter of AWSome
 
-* Repo with 0100+ Stars: :fire:
-* Repo with 0200+ Stars: :fire::fire:
-* Repo with 0500+ Stars: :fire::fire::fire:
-* Repo with 1000+ Stars: :fire::fire::fire::fire:
-* Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
+- Repo with 0100+ Stars: :fire:
+- Repo with 0200+ Stars: :fire::fire:
+- Repo with 0500+ Stars: :fire::fire::fire:
+- Repo with 1000+ Stars: :fire::fire::fire::fire:
+- Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
 
 ### Freshness Indicators
 
 Repos are marked with freshness indicators based on their last commit date:
 
-* Repo with last commit > 2 years ago: :hourglass:
-* Repo with last commit > 3 years ago: :zzz:
+- Repo with last commit > 2 years ago: :hourglass:
+- Repo with last commit > 3 years ago: :zzz:
 
 Repos not on `The Fiery Meter of AWSome` can still be awesome, see [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness).
 
@@ -156,7 +156,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 
 ## SDKs and Samples
 
-*AWS and community SDKs with samples and docs, grouped by language.*
+_AWS and community SDKs with samples and docs, grouped by language._
 
 <br/>
 <p align="center">
@@ -166,191 +166,191 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 
 ### Android SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-android)
-* [Repo with Samples :fire::fire::fire::fire: :hourglass:](https://github.com/awslabs/aws-sdk-android-samples)
-* [Install](http://sdk-for-android.amazonwebservices.com/latest/aws-android-sdk.zip)
-* [Docs](https://aws.amazon.com/documentation/sdk-for-android/)
-* [Learn More](https://aws.amazon.com/mobile/sdk/)
+- [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-android)
+- [Repo with Samples :fire::fire::fire::fire: :hourglass:](https://github.com/awslabs/aws-sdk-android-samples)
+- [Install](http://sdk-for-android.amazonwebservices.com/latest/aws-android-sdk.zip)
+- [Docs](https://aws.amazon.com/documentation/sdk-for-android/)
+- [Learn More](https://aws.amazon.com/mobile/sdk/)
 
 ### C++ SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-cpp)
-* [Blog with Samples](https://aws.amazon.com/blogs/aws/introducing-the-aws-sdk-for-c/)
+- [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-cpp)
+- [Blog with Samples](https://aws.amazon.com/blogs/aws/introducing-the-aws-sdk-for-c/)
 
-*The C++ SDK is a labs project with limited docs and/or samples.*
+_The C++ SDK is a labs project with limited docs and/or samples._
 
 ### Clojure SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/mcohen01/amazonica)
-* [Install](https://github.com/mcohen01/amazonica#installation)
-* [Docs](https://github.com/mcohen01/amazonica#documentation)
+- [Repo :fire::fire::fire::fire:](https://github.com/mcohen01/amazonica)
+- [Install](https://github.com/mcohen01/amazonica#installation)
+- [Docs](https://github.com/mcohen01/amazonica#documentation)
 
-*The Clojure SDK is a community project with limited docs and/or samples.*)
+_The Clojure SDK is a community project with limited docs and/or samples._)
 
 ### Go SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-go)
-* [Install](https://github.com/aws/aws-sdk-go/wiki)
-* [Docs](http://docs.aws.amazon.com/sdk-for-go/api/)
-* [Learn More](https://aws.amazon.com/sdk-for-go/)
+- [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-go)
+- [Install](https://github.com/aws/aws-sdk-go/wiki)
+- [Docs](http://docs.aws.amazon.com/sdk-for-go/api/)
+- [Learn More](https://aws.amazon.com/sdk-for-go/)
 
 Related Repos:
 
-* [goamz/goamz :fire::fire: :zzz:](https://github.com/goamz/goamz)
+- [goamz/goamz :fire::fire: :zzz:](https://github.com/goamz/goamz)
 
 ### iOS SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ios)
-* [Repo with Samples :fire::fire::fire::fire:](https://github.com/awslabs/aws-sdk-ios-samples)
-* [Install](http://sdk-for-ios.amazonwebservices.com/latest/aws-ios-sdk.zip)
-* [Docs](https://aws.amazon.com/documentation/sdk-for-ios/)
-* [Learn More](https://aws.amazon.com/mobile/sdk/)
+- [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ios)
+- [Repo with Samples :fire::fire::fire::fire:](https://github.com/awslabs/aws-sdk-ios-samples)
+- [Install](http://sdk-for-ios.amazonwebservices.com/latest/aws-ios-sdk.zip)
+- [Docs](https://aws.amazon.com/documentation/sdk-for-ios/)
+- [Learn More](https://aws.amazon.com/mobile/sdk/)
 
 ### IoT SDK
 
-* [Repo for Arduino](https://github.com/awslabs/aws-sdk-arduino)
-* [Repo for C :fire::fire::fire::fire:](https://github.com/aws/aws-iot-device-sdk-embedded-C)
-* [Repo for JavaScript :fire::fire::fire:](https://github.com/aws/aws-iot-device-sdk-js)
-* [Repo for Arduino Yun :fire: :zzz:](https://github.com/aws/aws-iot-device-sdk-arduino-yun/)
-* [Docs](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
+- [Repo for Arduino](https://github.com/awslabs/aws-sdk-arduino)
+- [Repo for C :fire::fire::fire::fire:](https://github.com/aws/aws-iot-device-sdk-embedded-C)
+- [Repo for JavaScript :fire::fire::fire:](https://github.com/aws/aws-iot-device-sdk-js)
+- [Repo for Arduino Yun :fire: :zzz:](https://github.com/aws/aws-iot-device-sdk-arduino-yun/)
+- [Docs](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 
-*The IoT SDK is a labs project with limited docs and/or samples.*
+_The IoT SDK is a labs project with limited docs and/or samples._
 
 ### Java SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-java)
-* [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-java-sample)
-* [Install](http://sdk-for-java.amazonwebservices.com/latest/aws-java-sdk.zip)
-* [Docs](https://aws.amazon.com/documentation/sdk-for-java/)
-* [Learn More](https://aws.amazon.com/sdk-for-java/)
+- [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-java)
+- [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-java-sample)
+- [Install](http://sdk-for-java.amazonwebservices.com/latest/aws-java-sdk.zip)
+- [Docs](https://aws.amazon.com/documentation/sdk-for-java/)
+- [Learn More](https://aws.amazon.com/sdk-for-java/)
 
 ### JavaScript SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-js)
-* [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-nodejs-sample)
-* [Install](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html)
-* [Docs](https://aws.amazon.com/documentation/sdk-for-javascript/)
-* [Learn More](https://aws.amazon.com/sdk-for-node-js/)
+- [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-js)
+- [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-nodejs-sample)
+- [Install](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html)
+- [Docs](https://aws.amazon.com/documentation/sdk-for-javascript/)
+- [Learn More](https://aws.amazon.com/sdk-for-node-js/)
 
 Related Repos:
 
-* [aws/aws-amplify :fire::fire::fire::fire::fire:](https://github.com/aws/aws-amplify)
-* [chilts/awssum :fire::fire: :zzz:](https://github.com/chilts/awssum)
-* [mirkokiefer/aws-lib :fire::fire::fire: :zzz:](https://github.com/mirkokiefer/aws-lib)
-* [SaltwaterC/aws2js :fire::fire: :zzz:](https://github.com/SaltwaterC/aws2js)
+- [aws/aws-amplify :fire::fire::fire::fire::fire:](https://github.com/aws/aws-amplify)
+- [chilts/awssum :fire::fire: :zzz:](https://github.com/chilts/awssum)
+- [mirkokiefer/aws-lib :fire::fire::fire: :zzz:](https://github.com/mirkokiefer/aws-lib)
+- [SaltwaterC/aws2js :fire::fire: :zzz:](https://github.com/SaltwaterC/aws2js)
 
 ### Haskell SDK
 
-* [Repo :fire::fire::fire:](https://github.com/brendanhay/amazonka)
-* [Docs](http://hackage.haskell.org/packages/#cat:AWS)
+- [Repo :fire::fire::fire:](https://github.com/brendanhay/amazonka)
+- [Docs](http://hackage.haskell.org/packages/#cat:AWS)
 
 Related Repos:
 
-* [aristidb/aws :fire::fire:](https://github.com/aristidb/aws)
+- [aristidb/aws :fire::fire:](https://github.com/aristidb/aws)
 
-*The Haskell SDK is a community project with limited docs and/or samples.*
+_The Haskell SDK is a community project with limited docs and/or samples._
 
 ### Perl SDK
 
-* [Repo :fire:](https://github.com/pplu/aws-sdk-perl)
-* [Repo with Samples :fire:](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
-* [Install](https://github.com/pplu/aws-sdk-perl#installation)
-* [Docs](https://metacpan.org/pod/Paws)
-* [Learn More](https://metacpan.org/pod/Paws)
+- [Repo :fire:](https://github.com/pplu/aws-sdk-perl)
+- [Repo with Samples :fire:](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
+- [Install](https://github.com/pplu/aws-sdk-perl#installation)
+- [Docs](https://metacpan.org/pod/Paws)
+- [Learn More](https://metacpan.org/pod/Paws)
 
-*The Perl SDK is a community project.*
+_The Perl SDK is a community project._
 
 ### PHP SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php)
-* [Repo with Samples](https://github.com/awslabs/aws-php-sample)
-* [Install](http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html)
-* [Docs](https://aws.amazon.com/documentation/sdk-for-php/)
-* [Learn More](https://aws.amazon.com/sdk-for-php/)
+- [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php)
+- [Repo with Samples](https://github.com/awslabs/aws-php-sample)
+- [Install](http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html)
+- [Docs](https://aws.amazon.com/documentation/sdk-for-php/)
+- [Learn More](https://aws.amazon.com/sdk-for-php/)
 
 Related Repos:
 
-* [aws-sdk-php-laravel :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php-laravel)
-* [aws-sdk-php-silex](https://github.com/aws/aws-sdk-php-silex)
-* [aws-sdk-php-zf2 :fire:](https://github.com/aws/aws-sdk-php-zf2)
+- [aws-sdk-php-laravel :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php-laravel)
+- [aws-sdk-php-silex](https://github.com/aws/aws-sdk-php-silex)
+- [aws-sdk-php-zf2 :fire:](https://github.com/aws/aws-sdk-php-zf2)
 
 ### Python SDK
 
-* [Repo :fire::fire::fire::fire::fire: :hourglass:](https://github.com/boto/boto)
-* [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-python-sample)
-* [Install](https://github.com/boto/boto#installation)
-* [Docs](http://docs.pythonboto.org/en/latest/)
-* [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto)
+- [Repo :fire::fire::fire::fire::fire: :hourglass:](https://github.com/boto/boto)
+- [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-python-sample)
+- [Install](https://github.com/boto/boto#installation)
+- [Docs](http://docs.pythonboto.org/en/latest/)
+- [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto)
 
 Related Repos:
 
-* [boto3 :fire::fire::fire::fire::fire:](https://github.com/boto/boto3)
-* [botocore :fire::fire::fire::fire:](https://github.com/boto/botocore)
+- [boto3 :fire::fire::fire::fire::fire:](https://github.com/boto/boto3)
+- [botocore :fire::fire::fire::fire:](https://github.com/boto/botocore)
 
 ### Ruby SDK
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby)
-* [Repo with S3 Sample](https://github.com/awslabs/aws-ruby-sample)
-* [Install](http://docs.aws.amazon.com/sdk-for-ruby/v3/developer-guide/setup-install.html)
-* [Docs](https://aws.amazon.com/documentation/sdk-for-ruby/)
-* [Samples :fire::fire::fire::fire::fire:](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/)
+- [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby)
+- [Repo with S3 Sample](https://github.com/awslabs/aws-ruby-sample)
+- [Install](http://docs.aws.amazon.com/sdk-for-ruby/v3/developer-guide/setup-install.html)
+- [Docs](https://aws.amazon.com/documentation/sdk-for-ruby/)
+- [Samples :fire::fire::fire::fire::fire:](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/)
 
 Related Repos:
 
-* [aws-sdk-rails :fire::fire::fire:](https://github.com/aws/aws-sdk-rails)
-* [appoxy/aws :fire::fire:](https://github.com/appoxy/aws)
-* [rightscale/right_aws :fire::fire:](https://github.com/rightscale/right_aws)
+- [aws-sdk-rails :fire::fire::fire:](https://github.com/aws/aws-sdk-rails)
+- [appoxy/aws :fire::fire:](https://github.com/appoxy/aws)
+- [rightscale/right_aws :fire::fire:](https://github.com/rightscale/right_aws)
 
 ### Rust SDK
 
-* [Repo :fire::fire::fire::fire::fire: :hourglass:](https://github.com/rusoto/rusoto)
-* [Install](https://github.com/rusoto/rusoto#installation)
-* [Docs](https://docs.rs/rusoto_core/)
+- [Repo :fire::fire::fire::fire::fire: :hourglass:](https://github.com/rusoto/rusoto)
+- [Install](https://github.com/rusoto/rusoto#installation)
+- [Docs](https://docs.rs/rusoto_core/)
 
-*The Rust SDK is a community project with limited docs and/or samples.*
+_The Rust SDK is a community project with limited docs and/or samples._
 
 ### Scala SDK
 
-* [Repo](https://github.com/awslabs/aws-scala-sdk)
+- [Repo](https://github.com/awslabs/aws-scala-sdk)
 
 Related Repos:
 
-* [atlassian/aws-scala](https://bitbucket.org/atlassian/aws-scala)
-* [seratch/AWScala :fire::fire::fire: :hourglass:](https://github.com/seratch/AWScala)
+- [atlassian/aws-scala](https://bitbucket.org/atlassian/aws-scala)
+- [seratch/AWScala :fire::fire::fire: :hourglass:](https://github.com/seratch/AWScala)
 
-*The Scala SDK is a labs project with limited docs and/or samples.*
+_The Scala SDK is a labs project with limited docs and/or samples._
 
 ### Swift SDK
 
-* [Repo :fire::fire::fire:](https://github.com/soto-project/soto)
-* [Docs](https://soto.codes)
+- [Repo :fire::fire::fire:](https://github.com/soto-project/soto)
+- [Docs](https://soto.codes)
 
-*The Swift SDK is a community project with limited docs and/or samples.*
+_The Swift SDK is a community project with limited docs and/or samples._
 
 ### Unity SDK
 
-* [Repo :fire:](https://github.com/aws/aws-sdk-unity)
-* [Repo with Samples :fire:](https://github.com/awslabs/aws-sdk-unity-samples)
-* [Docs](http://docs.aws.amazon.com/mobile/sdkforunity/developerguide/)
+- [Repo :fire:](https://github.com/aws/aws-sdk-unity)
+- [Repo with Samples :fire:](https://github.com/awslabs/aws-sdk-unity-samples)
+- [Docs](http://docs.aws.amazon.com/mobile/sdkforunity/developerguide/)
 
 ### Xamarin SDK
 
-* [Repo](https://github.com/awslabs/aws-sdk-xamarin)
+- [Repo](https://github.com/awslabs/aws-sdk-xamarin)
 
-*The Xamarin SDK is a labs project with limited docs and/or samples.*
+_The Xamarin SDK is a labs project with limited docs and/or samples._
 
 ### .NET SDK
 
-* [Repo ](https://github.com/aws/aws-sdk-net)
-* [Repo with Samples](https://github.com/awslabs/aws-auto-scaling-console-sample)
-* [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
-* [Docs](https://aws.amazon.com/documentation/sdk-for-net/)
-* [Learn More](https://aws.amazon.com/sdk-for-net/)
-* [Samples :fire: :zzz:](https://github.com/awslabs/aws-sdk-net-samples)
+- [Repo ](https://github.com/aws/aws-sdk-net)
+- [Repo with Samples](https://github.com/awslabs/aws-auto-scaling-console-sample)
+- [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
+- [Docs](https://aws.amazon.com/documentation/sdk-for-net/)
+- [Learn More](https://aws.amazon.com/sdk-for-net/)
+- [Samples :fire: :zzz:](https://github.com/awslabs/aws-sdk-net-samples)
 
 ## Command Line Tools
 
-*AWS and community command line tools with samples and docs.*
+_AWS and community command line tools with samples and docs._
 
 <br/>
 <p align="center">
@@ -360,27 +360,27 @@ Related Repos:
 
 ### Universal Command Line Interface
 
-* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli)
-* [Install](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html)
-* [Docs](https://aws.amazon.com/documentation/cli/)
-* [Learn More](https://aws.amazon.com/cli/)
+- [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli)
+- [Install](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html)
+- [Docs](https://aws.amazon.com/documentation/cli/)
+- [Learn More](https://aws.amazon.com/cli/)
 
 Related Repos:
 
-* [awslabs/aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell)
-* [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws)
-* [DrSkyle/CloudSlash ](https://github.com/DrSkyle/CloudSlash)
-* [aws-amplify/amplify-cli :fire::fire::fire::fire::fire:](https://github.com/aws-amplify/amplify-cli)  
+- [awslabs/aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell)
+- [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws)
+- [DrSkyle/CloudSlash ](https://github.com/DrSkyle/CloudSlash)
+- [aws-amplify/amplify-cli :fire::fire::fire::fire::fire:](https://github.com/aws-amplify/amplify-cli)
 
 ### Windows PowerShell
 
-* [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
-* [Docs](https://aws.amazon.com/documentation/powershell/)
-* [Learn More](https://aws.amazon.com/powershell/)
+- [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
+- [Docs](https://aws.amazon.com/documentation/powershell/)
+- [Learn More](https://aws.amazon.com/powershell/)
 
 ## IDE Toolkits
 
-*Official IDE toolkits with samples and docs.*
+_Official IDE toolkits with samples and docs._
 
 <br/>
 <p align="center">
@@ -390,24 +390,24 @@ Related Repos:
 
 ### Eclipse Toolkit
 
-* [Docs](https://aws.amazon.com/documentation/awstoolkiteclipse/)
-* [Learn More](https://aws.amazon.com/eclipse/)
+- [Docs](https://aws.amazon.com/documentation/awstoolkiteclipse/)
+- [Learn More](https://aws.amazon.com/eclipse/)
 
 ### Visual Studio Toolkit
 
-* [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
-* [Docs](https://aws.amazon.com/documentation/aws-toolkit-visual-studio/)
-* [Learn More](https://aws.amazon.com/visualstudio/)
+- [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
+- [Docs](https://aws.amazon.com/documentation/aws-toolkit-visual-studio/)
+- [Learn More](https://aws.amazon.com/visualstudio/)
 
 ### Brainboard
 
-* [Install](https://www.brainboard.co)
-* [Docs](https://docs.brainboard.co)
-* [Learn More](https://www.brainboard.co)
+- [Install](https://www.brainboard.co)
+- [Docs](https://docs.brainboard.co)
+- [Learn More](https://www.brainboard.co)
 
 ## Open Source Repos
 
-*AWS and community open source projects, grouped by service.  See [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) for more details.*
+_AWS and community open source projects, grouped by service. See [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) for more details._
 
 <br/>
 <p align="center">
@@ -419,673 +419,675 @@ Related Repos:
 
 AWS Repos:
 
-* [api-gateway-secure-pet-store :fire::fire:](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
-* [aws-apigateway-sdk-java](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
-* [aws-apigateway-swagger-importer :fire::fire::fire:](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
+- [api-gateway-secure-pet-store :fire::fire:](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
+- [aws-apigateway-sdk-java](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
+- [aws-apigateway-swagger-importer :fire::fire::fire:](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### CLI
 
 AWS Repos:
 
-* [awscli-aliases :fire::fire: :zzz:](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
-* [amazon-ecs-cli :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-cli) - ECS CLI using the same Docker Compose file format and familiar Compose commands.
-* [aws-cli :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) - Universal Command Line Interface.
-* [aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell)
-* [awscli-cookbook](https://github.com/awslabs/awscli-cookbook) - Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks.
-* [awsmobile-cli :fire:](https://github.com/aws/awsmobile-cli) - CLI experience for Frontend developers in the JavaScript ecosystem.
+- [awscli-aliases :fire::fire: :zzz:](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
+- [amazon-ecs-cli :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-cli) - ECS CLI using the same Docker Compose file format and familiar Compose commands.
+- [aws-cli :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) - Universal Command Line Interface.
+- [aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell)
+- [awscli-cookbook](https://github.com/awslabs/awscli-cookbook) - Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks.
+- [awsmobile-cli :fire:](https://github.com/aws/awsmobile-cli) - CLI experience for Frontend developers in the JavaScript ecosystem.
 
 Community Repos:
 
-* [achiku/jungle :fire::fire::fire: :zzz:](https://github.com/achiku/jungle) - Operations by EC2 and ELB cli should be simpler.
-* [dbcli/athenacli :fire::fire:](https://github.com/dbcli/athenacli) - a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
-* [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - A Supercharged AWS Command Line Interface.
-* [nessjs/ness :fire::fire::fire: :zzz:](https://github.com/nessjs/ness) - Deploy web sites to your AWS account effortlessly.
-* [timkay/aws :fire::fire: :zzz:](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
-* [wallix/awless :fire::fire::fire::fire::fire: :zzz:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
-* [Noovolari/leapp :fire::fire::fire::fire:](https://github.com/Noovolari/leapp) - Cross-platform App for securing AWS Credentials, based on Electron.
-* [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go.
-* [rocketsam](https://github.com/nadav96/rocketsam) - A CLI made to build and deploy microservices.
+- [achiku/jungle :fire::fire::fire: :zzz:](https://github.com/achiku/jungle) - Operations by EC2 and ELB cli should be simpler.
+- [dbcli/athenacli :fire::fire:](https://github.com/dbcli/athenacli) - a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+- [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - A Supercharged AWS Command Line Interface.
+- [nessjs/ness :fire::fire::fire: :zzz:](https://github.com/nessjs/ness) - Deploy web sites to your AWS account effortlessly.
+- [timkay/aws :fire::fire: :zzz:](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
+- [wallix/awless :fire::fire::fire::fire::fire: :zzz:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
+- [Noovolari/leapp :fire::fire::fire::fire:](https://github.com/Noovolari/leapp) - Cross-platform App for securing AWS Credentials, based on Electron.
+- [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go.
+- [rocketsam](https://github.com/nadav96/rocketsam) - A CLI made to build and deploy microservices.
 
 ### CloudFormation
 
 AWS Repos:
 
-* [aws-cdk :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code.
-* [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples.
-* [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework.
-* [cfn-python-lint :fire::fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
-* [cfncluster-cookbook :fire:](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook.
-* [cfncluster :fire::fire::fire:](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
+- [aws-cdk :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code.
+- [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples.
+- [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework.
+- [cfn-python-lint :fire::fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
+- [cfncluster-cookbook :fire:](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook.
+- [cfncluster :fire::fire::fire:](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
 
 Community Repos:
 
-* [Appliscale/perun :hourglass:](https://github.com/Appliscale/perun) - A CLI tool for linting/validation and managing CloudFormation templates and stacks.
-* [beaknit/cform :fire: :zzz:](https://github.com/beaknit/cform) - SublimeText plugin.
-* [cloudreach/sceptre :fire::fire::fire::fire:](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation.
-* [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions.
-* [monken/cfn-include](https://github.com/monken/cfn-include) - Preprocessor with flexible Fn::Include for CloudFormation templates.
-* [peterkh/cumulus :fire::fire: :zzz:](https://github.com/peterkh/cumulus) - Manages stacks.
-* [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
-* [sparkleformation/sfn :hourglass:](https://github.com/sparkleformation/sfn) - CLI for stack management.
-* [sparkleformation/sparkle_formation :fire::fire: :hourglass:](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
-* [Stelligent/cfn_nag :fire::fire::fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
-* [Skyscanner/cfripper :fire::fire:](https://github.com/Skyscanner/cfripper) - CFRipper is a Library and CLI security analyzer for AWS CloudFormation templates
+- [Appliscale/perun :hourglass:](https://github.com/Appliscale/perun) - A CLI tool for linting/validation and managing CloudFormation templates and stacks.
+- [beaknit/cform :fire: :zzz:](https://github.com/beaknit/cform) - SublimeText plugin.
+- [cloudreach/sceptre :fire::fire::fire::fire:](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation.
+- [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions.
+- [monken/cfn-include](https://github.com/monken/cfn-include) - Preprocessor with flexible Fn::Include for CloudFormation templates.
+- [peterkh/cumulus :fire::fire: :zzz:](https://github.com/peterkh/cumulus) - Manages stacks.
+- [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
+- [sparkleformation/sfn :hourglass:](https://github.com/sparkleformation/sfn) - CLI for stack management.
+- [sparkleformation/sparkle_formation :fire::fire: :hourglass:](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
+- [Stelligent/cfn_nag :fire::fire::fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
+- [Skyscanner/cfripper :fire::fire:](https://github.com/Skyscanner/cfripper) - CFRipper is a Library and CLI security analyzer for AWS CloudFormation templates
 
 ### CloudSearch
 
 AWS Repos:
 
-* [cloudsearchable](https://github.com/awslabs/cloudsearchable) - An ActiveRecord-style ORM query interface.
+- [cloudsearchable](https://github.com/awslabs/cloudsearchable) - An ActiveRecord-style ORM query interface.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### CloudTrail
 
 AWS Repos:
 
-* [aws-cloudtrail-processing-library](https://github.com/aws/aws-cloudtrail-processing-library) - Easily consume and process log files.
+- [aws-cloudtrail-processing-library](https://github.com/aws/aws-cloudtrail-processing-library) - Easily consume and process log files.
 
 Community Repos:
 
-* [AppliedTrust/traildash :fire::fire: :zzz:](https://github.com/AppliedTrust/traildash) - Slick dashboard.
-* [GorillaStack/auto-tag :fire::fire:](https://github.com/GorillaStack/auto-tag) - Automatically tag AWS resources on creation, for cost assignment.
+- [AppliedTrust/traildash :fire::fire: :zzz:](https://github.com/AppliedTrust/traildash) - Slick dashboard.
+- [GorillaStack/auto-tag :fire::fire:](https://github.com/GorillaStack/auto-tag) - Automatically tag AWS resources on creation, for cost assignment.
 
 ### CloudWatch
 
 AWS Repos:
 
-* [cloudwatch-logs-subscription-consumer :fire::fire:](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
-* [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets in the blog post on using Amazon ECS and Amazon CloudWatch logs.
-* [logstash-output-cloudwatchlogs](https://github.com/awslabs/logstash-output-cloudwatchlogs) - A logstash plugin that sends logs to CloudWatch.
-* [opsworks-cloudwatch-logs-cookbooks](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - OpsWorks sample cookbook.
+- [cloudwatch-logs-subscription-consumer :fire::fire:](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
+- [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets in the blog post on using Amazon ECS and Amazon CloudWatch logs.
+- [logstash-output-cloudwatchlogs](https://github.com/awslabs/logstash-output-cloudwatchlogs) - A logstash plugin that sends logs to CloudWatch.
+- [opsworks-cloudwatch-logs-cookbooks](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - OpsWorks sample cookbook.
 
 Community Repos:
 
-* [jorgebastida/awslogs :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
-* [newrelic-platform/newrelic_aws_cloudwatch_plugin :fire:](https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin) - New Relic plugin.
+- [jorgebastida/awslogs :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
+- [newrelic-platform/newrelic_aws_cloudwatch_plugin :fire:](https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin) - New Relic plugin.
 
 ### Code Deploy
 
 AWS Repos:
 
-* [aws-codedeploy-agent :fire::fire:](https://github.com/aws/aws-codedeploy-agent) - Sample agent.
-* [aws-codedeploy-plugin :fire: :hourglass:](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
-* [aws-codedeploy-samples :fire::fire::fire:](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
+- [aws-codedeploy-agent :fire::fire:](https://github.com/aws/aws-codedeploy-agent) - Sample agent.
+- [aws-codedeploy-plugin :fire: :hourglass:](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
+- [aws-codedeploy-samples :fire::fire::fire:](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Code Pipeline
 
 AWS Repos:
 
-* [aws-codepipeline-custom-job-worker :hourglass:](https://github.com/awslabs/aws-codepipeline-custom-job-worker) - Develop your own job worker when creating a custom action.
-* [aws-codepipeline-jenkins-aws-codedeploy_linux](https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux) - Four-stage pipeline for Linux.
-* [aws-codepipeline-plugin-for-jenkins :hourglass:](https://github.com/awslabs/aws-codepipeline-plugin-for-jenkins) - Jenkins plugin.
-* [aws-codepipeline-s3-aws-codedeploy_linux :fire:](https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux) - Simple pipeline for Linux.
-* [AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows](https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows) - Four-stage pipeline for Windows.
-* [AWSCodePipeline-S3-AWSCodeDeploy_Windows](https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows) - Simple pipeline for Windows.
+- [aws-codepipeline-custom-job-worker :hourglass:](https://github.com/awslabs/aws-codepipeline-custom-job-worker) - Develop your own job worker when creating a custom action.
+- [aws-codepipeline-jenkins-aws-codedeploy_linux](https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux) - Four-stage pipeline for Linux.
+- [aws-codepipeline-plugin-for-jenkins :hourglass:](https://github.com/awslabs/aws-codepipeline-plugin-for-jenkins) - Jenkins plugin.
+- [aws-codepipeline-s3-aws-codedeploy_linux :fire:](https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux) - Simple pipeline for Linux.
+- [AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows](https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows) - Four-stage pipeline for Windows.
+- [AWSCodePipeline-S3-AWSCodeDeploy_Windows](https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows) - Simple pipeline for Windows.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Cognito
 
 AWS Repos:
 
-* [amazon-cognito-android](https://github.com/aws/amazon-cognito-android) - Sync SDK for Android.
-* [amazon-cognito-developer-authentication-sample :fire:](https://github.com/awslabs/amazon-cognito-developer-authentication-sample) - Authentication sample.
-* [amazon-cognito-dotnet :hourglass:](https://github.com/aws/amazon-cognito-dotnet) - Sync SDK for .NET.
-* [amazon-cognito-ios](https://github.com/aws/amazon-cognito-ios) - Sync SDK for iOS.
-* [amazon-cognito-js :fire:](https://github.com/aws/amazon-cognito-js) - Sync SDK for JavaScript.
-* [amazon-cognito-streams-sample](https://github.com/awslabs/amazon-cognito-streams-sample) - Consuming Streams sample.
-* [cognito-sample-nodejs :fire:](https://github.com/awslabs/cognito-sample-nodejs) - Sample App for Node.js.
+- [amazon-cognito-android](https://github.com/aws/amazon-cognito-android) - Sync SDK for Android.
+- [amazon-cognito-developer-authentication-sample :fire:](https://github.com/awslabs/amazon-cognito-developer-authentication-sample) - Authentication sample.
+- [amazon-cognito-dotnet :hourglass:](https://github.com/aws/amazon-cognito-dotnet) - Sync SDK for .NET.
+- [amazon-cognito-ios](https://github.com/aws/amazon-cognito-ios) - Sync SDK for iOS.
+- [amazon-cognito-js :fire:](https://github.com/aws/amazon-cognito-js) - Sync SDK for JavaScript.
+- [amazon-cognito-streams-sample](https://github.com/awslabs/amazon-cognito-streams-sample) - Consuming Streams sample.
+- [cognito-sample-nodejs :fire:](https://github.com/awslabs/cognito-sample-nodejs) - Sample App for Node.js.
 
 Community Repos:
 
-* [capeless/warrant :fire::fire:](https://github.com/capless/warrant) - Python library for using Cognito.
-* [mifi/cognito-backup :fire:](https://github.com/mifi/cognito-backup) - Tool for backing up and restoring Cognito user pools and groups.
-* [rahulpsd18/cognito-backup-restore :fire::fire: :hourglass:](https://github.com/rahulpsd18/cognito-backup-restore) - Tool for backing up and restoring Cognito user pools.
+- [capeless/warrant :fire::fire:](https://github.com/capless/warrant) - Python library for using Cognito.
+- [mifi/cognito-backup :fire:](https://github.com/mifi/cognito-backup) - Tool for backing up and restoring Cognito user pools and groups.
+- [rahulpsd18/cognito-backup-restore :fire::fire: :hourglass:](https://github.com/rahulpsd18/cognito-backup-restore) - Tool for backing up and restoring Cognito user pools.
 
 ### Data Pipeline
 
 AWS Repos:
 
-* [data-pipeline-samples :fire::fire:](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
+- [data-pipeline-samples :fire::fire:](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Device Farm
 
 AWS Repos:
 
-* [aws-device-farm-appium-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Appium TestNG Android tests.
-* [aws-device-farm-calabash-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app) - Calabash Android tests.
-* [aws-device-farm-gradle-plugin :zzz:](https://github.com/awslabs/aws-device-farm-gradle-plugin) - Gradle plugin.
-* [aws-device-farm-jenkins-plugin](https://github.com/awslabs/aws-device-farm-jenkins-plugin) - Jenkins plugin.
-* [aws-device-farm-sample-app-for-android :fire:](https://github.com/awslabs/aws-device-farm-sample-app-for-android) - Sample Android app.
+- [aws-device-farm-appium-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Appium TestNG Android tests.
+- [aws-device-farm-calabash-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app) - Calabash Android tests.
+- [aws-device-farm-gradle-plugin :zzz:](https://github.com/awslabs/aws-device-farm-gradle-plugin) - Gradle plugin.
+- [aws-device-farm-jenkins-plugin](https://github.com/awslabs/aws-device-farm-jenkins-plugin) - Jenkins plugin.
+- [aws-device-farm-sample-app-for-android :fire:](https://github.com/awslabs/aws-device-farm-sample-app-for-android) - Sample Android app.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### DynamoDB
 
 AWS Repos:
 
-* [aws-dotnet-session-provider](https://github.com/aws/aws-dotnet-session-provider) - A session state provider for ASP.NET apps.
-* [aws-dotnet-trace-listener :hourglass:](https://github.com/aws/aws-dotnet-trace-listener) - A trace listener for System.Diagnostics that can be used to log events.
-* [aws-dynamodb-encryption-java :fire:](https://github.com/awslabs/aws-dynamodb-encryption-java) - Encryption Client for Java.
-* [aws-dynamodb-examples :fire::fire::fire:](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
-* [aws-dynamodb-mars-json-demo](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
-* [aws-dynamodb-session-tomcat](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
-* [aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
-* [dynamodb-cross-region-library :fire::fire: :zzz:](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.
-* [dynamodb-geo :fire::fire:](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
-* [dynamodb-import-export-tool](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples.
-* [dynamodb-online-index-violation-detector](https://github.com/awslabs/dynamodb-online-index-violation-detector) - Finds violations on an online GSI's hash key and range key.
-* [dynamodb-streams-kinesis-adapter :fire:](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - Kinesis interface to consume and process data from a DynamoDB stream.
-* [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) - Lightweight python app.
-* [dynamodb-titan-storage-backend :fire::fire:](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
-* [dynamodb-transactions :fire::fire: :zzz:](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
-* [logstash-input-dynamodb :fire:](https://github.com/awslabs/logstash-input-dynamodb) - Logstash input plugin.
-* [lucid-dynamodb :fire:](https://github.com/dineshsonachalam/lucid-dynamodb) - A minimalistic wrapper to AWS DynamoDB
+- [aws-dotnet-session-provider](https://github.com/aws/aws-dotnet-session-provider) - A session state provider for ASP.NET apps.
+- [aws-dotnet-trace-listener :hourglass:](https://github.com/aws/aws-dotnet-trace-listener) - A trace listener for System.Diagnostics that can be used to log events.
+- [aws-dynamodb-encryption-java :fire:](https://github.com/awslabs/aws-dynamodb-encryption-java) - Encryption Client for Java.
+- [aws-dynamodb-examples :fire::fire::fire:](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
+- [aws-dynamodb-mars-json-demo](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
+- [aws-dynamodb-session-tomcat](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
+- [aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
+- [dynamodb-cross-region-library :fire::fire: :zzz:](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.
+- [dynamodb-geo :fire::fire:](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
+- [dynamodb-import-export-tool](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples.
+- [dynamodb-online-index-violation-detector](https://github.com/awslabs/dynamodb-online-index-violation-detector) - Finds violations on an online GSI's hash key and range key.
+- [dynamodb-streams-kinesis-adapter :fire:](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - Kinesis interface to consume and process data from a DynamoDB stream.
+- [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) - Lightweight python app.
+- [dynamodb-titan-storage-backend :fire::fire:](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
+- [dynamodb-transactions :fire::fire: :zzz:](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
+- [logstash-input-dynamodb :fire:](https://github.com/awslabs/logstash-input-dynamodb) - Logstash input plugin.
+- [lucid-dynamodb :fire:](https://github.com/dineshsonachalam/lucid-dynamodb) - A minimalistic wrapper to AWS DynamoDB
 
 Community Repos:
 
-* [ballerina-aws-dynamodb :fire:](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodb) - The Ballerina AWS DynamoDB connector provides the capability to handle AWS DynamoDB related operations programmatically.
-* [ballerina-aws-dynamodb-streams](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodbstreams) - The Ballerina AWS DynamoDB Streams connector enables developers to interact with AWS DynamoDB Streams for real-time data processing.
-* [channl/dynamodb-lambda-autoscale :fire::fire: :zzz:](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
-* [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
-* [sebdah/dynamic-dynamodb :fire::fire::fire: :zzz:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
-* [typemon/dynamon](https://gitlab.com/monster-space-network/typemon/dynamon) - Highly abstracted document client and incredibly powerful expression builder.
+- [ballerina-aws-dynamodb :fire:](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodb) - The Ballerina AWS DynamoDB connector provides the capability to handle AWS DynamoDB related operations programmatically.
+- [ballerina-aws-dynamodb-streams](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodbstreams) - The Ballerina AWS DynamoDB Streams connector enables developers to interact with AWS DynamoDB Streams for real-time data processing.
+- [channl/dynamodb-lambda-autoscale :fire::fire: :zzz:](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
+- [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
+- [sebdah/dynamic-dynamodb :fire::fire::fire: :zzz:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
+- [typemon/dynamon](https://gitlab.com/monster-space-network/typemon/dynamon) - Highly abstracted document client and incredibly powerful expression builder.
 
 ### Elastic Beanstalk
 
 AWS Repos:
 
-* [aws-eb-glassfish-dockerfiles :zzz:](https://github.com/aws/aws-eb-glassfish-dockerfiles) - GlassFish docker files.
-* [aws-eb-python-dockerfiles :zzz:](https://github.com/aws/aws-eb-python-dockerfiles) - Python docker files.
-* [eb-demo-php-simple-app :fire:](https://github.com/awslabs/eb-demo-php-simple-app) - Simple PHP app.
-* [eb-docker-multiple-ports](https://github.com/awslabs/eb-docker-multiple-ports) - Simple Node.js and Tomcat apps using Docker images.
-* [eb-docker-nginx-proxy :fire:](https://github.com/awslabs/eb-docker-nginx-proxy) - Simple PHP app using the PHP-FPM and Nginx Docker images.
-* [eb-docker-virtual-hosting](https://github.com/awslabs/eb-docker-virtual-hosting) - Simple PHP, Tomcat, and Nginx applications using Docker images.
-* [eb-node-express-sample :fire::fire:](https://github.com/awslabs/eb-node-express-sample) - Sample express app.
-* [eb-node-express-signup](https://github.com/awslabs/eb-node-express-signup) - Express framework and Bootstrap Node.js sample app.
-* [eb-node-express](https://github.com/awslabs/eb-node-express) - Sample app referenced in the Developer Guide.
-* [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) - Python app that illustrates worker roles.
-* [eb-py-flask-signup :fire::fire:](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap.
-* [eb-python-flask](https://github.com/awslabs/eb-python-flask) - Simple Python and Flask app.
-* [eb-wif-sample](https://github.com/awslabs/eb-wif-sample) - Sample login app with Web Identity Federation.
+- [aws-eb-glassfish-dockerfiles :zzz:](https://github.com/aws/aws-eb-glassfish-dockerfiles) - GlassFish docker files.
+- [aws-eb-python-dockerfiles :zzz:](https://github.com/aws/aws-eb-python-dockerfiles) - Python docker files.
+- [eb-demo-php-simple-app :fire:](https://github.com/awslabs/eb-demo-php-simple-app) - Simple PHP app.
+- [eb-docker-multiple-ports](https://github.com/awslabs/eb-docker-multiple-ports) - Simple Node.js and Tomcat apps using Docker images.
+- [eb-docker-nginx-proxy :fire:](https://github.com/awslabs/eb-docker-nginx-proxy) - Simple PHP app using the PHP-FPM and Nginx Docker images.
+- [eb-docker-virtual-hosting](https://github.com/awslabs/eb-docker-virtual-hosting) - Simple PHP, Tomcat, and Nginx applications using Docker images.
+- [eb-node-express-sample :fire::fire:](https://github.com/awslabs/eb-node-express-sample) - Sample express app.
+- [eb-node-express-signup](https://github.com/awslabs/eb-node-express-signup) - Express framework and Bootstrap Node.js sample app.
+- [eb-node-express](https://github.com/awslabs/eb-node-express) - Sample app referenced in the Developer Guide.
+- [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) - Python app that illustrates worker roles.
+- [eb-py-flask-signup :fire::fire:](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap.
+- [eb-python-flask](https://github.com/awslabs/eb-python-flask) - Simple Python and Flask app.
+- [eb-wif-sample](https://github.com/awslabs/eb-wif-sample) - Sample login app with Web Identity Federation.
 
 Community Repos:
 
-* [alienfast/elastic-beanstalk :fire: :zzz:](https://github.com/alienfast/elastic-beanstalk) - Gem with rake configuration and deployment for rails apps.
-* [ThoughtWorksStudios/eb_deployer :fire::fire: :hourglass:](https://github.com/ThoughtWorksStudios/eb_deployer) - Blue-green deployment automation.
+- [alienfast/elastic-beanstalk :fire: :zzz:](https://github.com/alienfast/elastic-beanstalk) - Gem with rake configuration and deployment for rails apps.
+- [ThoughtWorksStudios/eb_deployer :fire::fire: :hourglass:](https://github.com/ThoughtWorksStudios/eb_deployer) - Blue-green deployment automation.
 
 ### Elastic Compute Cloud
 
 AWS Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 Community Repos:
 
-* [alestic/ec2-consistent-snapshot :fire::fire: :zzz:](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2.
-* [ConradIrwin/aws-name-server :fire::fire::fire: :zzz:](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up instances by name.
-* [evannuil/aws-snapshot-tool :fire::fire: :zzz:](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation.
-* [mirakui/ec2ssh :fire::fire: :hourglass:](https://github.com/mirakui/ec2ssh) - SSH config manager.
-* [pmazurek/aws-fuzzy-finder :fire: :hourglass:](https://github.com/pmazurek/aws-fuzzy-finder) - SSH into instances using fuzzy search through instances names.
-* [skavanagh/EC2Box :fire::fire:](https://github.com/skavanagh/EC2Box) - A web-based SSH console to manage multiple instances simultaneously.
-* [wbailey/claws :fire: :zzz:](https://github.com/wbailey/claws) - CLI-driven console with capistrano integration.
+- [alestic/ec2-consistent-snapshot :fire::fire: :zzz:](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2.
+- [ConradIrwin/aws-name-server :fire::fire::fire: :zzz:](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up instances by name.
+- [evannuil/aws-snapshot-tool :fire::fire: :zzz:](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation.
+- [mirakui/ec2ssh :fire::fire: :hourglass:](https://github.com/mirakui/ec2ssh) - SSH config manager.
+- [pmazurek/aws-fuzzy-finder :fire: :hourglass:](https://github.com/pmazurek/aws-fuzzy-finder) - SSH into instances using fuzzy search through instances names.
+- [skavanagh/EC2Box :fire::fire:](https://github.com/skavanagh/EC2Box) - A web-based SSH console to manage multiple instances simultaneously.
+- [wbailey/claws :fire: :zzz:](https://github.com/wbailey/claws) - CLI-driven console with capistrano integration.
 
 ### Elastic Container Service
 
 AWS Repos:
 
-* [amazon-ecs-agent :fire::fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-agent) - Agent that runs on and starts containers.
-* [amazon-ecs-amazon-efs :zzz:](https://github.com/awslabs/amazon-ecs-amazon-efs) - Persists Data from containers.
-* [amazon-ecs-init :fire: :hourglass:](https://github.com/aws/amazon-ecs-init) - RPM developed to support the Amazon ECS Container Agent.
-* [blox :fire::fire::fire: :zzz:](https://github.com/blox/blox) - Open source tools for building custom schedulers on ECS.
-* [ecs-blue-green-deployment :fire::fire:](https://github.com/awslabs/ecs-blue-green-deployment) - Blue-green deployment on ECS.
-* [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets from the blog using Amazon ECS and Amazon CloudWatch logs.
-* [ecs-demo-php-simple-app :fire:](https://github.com/awslabs/ecs-demo-php-simple-app) - Simple PHP app.
-* [ecs-mesos-scheduler-driver :fire:](https://github.com/awslabs/ecs-mesos-scheduler-driver) - Integrates Apache Mesos.
-* [ecs-refarch-continuous-deployment :fire::fire::fire: :zzz:](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
-* [ecs-task-kite :zzz:](https://github.com/awslabs/ecs-task-kite) - Simple ambassador container for inter-task communication.
-* [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
-* [py-flask-signup-docker](https://github.com/awslabs/py-flask-signup-docker) - Python sample app.
-* [service-discovery-ecs-consul :fire:](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
-
+- [amazon-ecs-agent :fire::fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-agent) - Agent that runs on and starts containers.
+- [amazon-ecs-amazon-efs :zzz:](https://github.com/awslabs/amazon-ecs-amazon-efs) - Persists Data from containers.
+- [amazon-ecs-init :fire: :hourglass:](https://github.com/aws/amazon-ecs-init) - RPM developed to support the Amazon ECS Container Agent.
+- [blox :fire::fire::fire: :zzz:](https://github.com/blox/blox) - Open source tools for building custom schedulers on ECS.
+- [ecs-blue-green-deployment :fire::fire:](https://github.com/awslabs/ecs-blue-green-deployment) - Blue-green deployment on ECS.
+- [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets from the blog using Amazon ECS and Amazon CloudWatch logs.
+- [ecs-demo-php-simple-app :fire:](https://github.com/awslabs/ecs-demo-php-simple-app) - Simple PHP app.
+- [ecs-mesos-scheduler-driver :fire:](https://github.com/awslabs/ecs-mesos-scheduler-driver) - Integrates Apache Mesos.
+- [ecs-refarch-continuous-deployment :fire::fire::fire: :zzz:](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
+- [ecs-task-kite :zzz:](https://github.com/awslabs/ecs-task-kite) - Simple ambassador container for inter-task communication.
+- [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
+- [py-flask-signup-docker](https://github.com/awslabs/py-flask-signup-docker) - Python sample app.
+- [service-discovery-ecs-consul :fire:](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
+
+
 
 Community Repos:
 
-* [Lumoslabs/broadside :zzz:](https://github.com/lumoslabs/broadside) - Command line tool for deploying revisions of containerized applications.
-* [Stelligent/mu :fire::fire::fire: :zzz:](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
+- [Lumoslabs/broadside :zzz:](https://github.com/lumoslabs/broadside) - Command line tool for deploying revisions of containerized applications.
+- [Stelligent/mu :fire::fire::fire: :zzz:](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
 
 ### Elastic File System
 
 AWS Repos:
 
-* [amazon-ecs-amazon-efs :zzz:](https://github.com/awslabs/amazon-ecs-amazon-efs) - Persist data from ECS.
+- [amazon-ecs-amazon-efs :zzz:](https://github.com/awslabs/amazon-ecs-amazon-efs) - Persist data from ECS.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Elastic MapReduce
 
 AWS Repos:
 
-* [emr-bootstrap-actions :fire::fire::fire:](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
-* [emr-sample-apps](https://github.com/awslabs/emr-sample-apps) - Sample apps.
+- [emr-bootstrap-actions :fire::fire::fire:](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
+- [emr-sample-apps](https://github.com/awslabs/emr-sample-apps) - Sample apps.
 
 Community Repos:
 
-* [Yelp/mrjob :fire::fire::fire::fire::fire: :hourglass:](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or EMR.
+- [Yelp/mrjob :fire::fire::fire::fire::fire: :hourglass:](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or EMR.
 
 ### Elastic Search
 
 AWS Repos:
 
-* [logstash-output-amazon_es :fire::fire: :zzz:](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events.
-* [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - OpsWorks Elasticsearch sample cookbook.
+- [logstash-output-amazon_es :fire::fire: :zzz:](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events.
+- [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - OpsWorks Elasticsearch sample cookbook.
 
 Community Repos:
 
-* [elastic/elasticsearch-cloud-aws :fire::fire::fire:](https://github.com/elastic/elasticsearch-cloud-aws) - Plugin for Elasticsearch.
+- [elastic/elasticsearch-cloud-aws :fire::fire::fire:](https://github.com/elastic/elasticsearch-cloud-aws) - Plugin for Elasticsearch.
 
 ### Elasticache
 
 AWS Repos:
 
-* [aws-elasticache-cluster-client-libmemcached](https://github.com/awslabs/aws-elasticache-cluster-client-libmemcached) - Libmemcached library support.
-* [aws-elasticache-cluster-client-memcached-for-java](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java) - Client for Java.
-* [aws-elasticache-cluster-client-memcached-for-php](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-php) - Enhanced PHP library connecting to ElastiCache.
-* [elasticache-cluster-config-net :zzz:](https://github.com/awslabs/elasticache-cluster-config-net) - Config object for Enyim's MemcachedClient to enable auto discovery.
+- [aws-elasticache-cluster-client-libmemcached](https://github.com/awslabs/aws-elasticache-cluster-client-libmemcached) - Libmemcached library support.
+- [aws-elasticache-cluster-client-memcached-for-java](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java) - Client for Java.
+- [aws-elasticache-cluster-client-memcached-for-php](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-php) - Enhanced PHP library connecting to ElastiCache.
+- [elasticache-cluster-config-net :zzz:](https://github.com/awslabs/elasticache-cluster-config-net) - Config object for Enyim's MemcachedClient to enable auto discovery.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Glacier
 
 Community Repos:
 
-* [vsespb/mt-aws-glacier :fire::fire::fire: :zzz:](https://github.com/vsespb/mt-aws-glacier) - Perl Multithreaded Multipart sync to Glacier.
+- [vsespb/mt-aws-glacier :fire::fire::fire: :zzz:](https://github.com/vsespb/mt-aws-glacier) - Perl Multithreaded Multipart sync to Glacier.
 
 ### Kinesis
 
 AWS Repos:
 
-* [amazon-kinesis-aggregators :fire: :zzz:](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations.
-* [amazon-kinesis-client-net](https://github.com/awslabs/amazon-kinesis-client-net) - Client Library for .NET.
-* [amazon-kinesis-client-nodejs :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
-* [amazon-kinesis-client-python :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python.
-* [amazon-kinesis-client-ruby :fire:](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby.
-* [amazon-kinesis-client :fire::fire::fire:](https://github.com/awslabs/amazon-kinesis-client) Client library for Amazon Kinesis.
-* [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) - Libary to integrate with other AWS and non-AWS services.
-* [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app.
-* [amazon-kinesis-learning :fire:](https://github.com/awslabs/amazon-kinesis-learning) - Learning Kinesis Development.
-* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) - Producer Library.
-* [amazon-kinesis-scaling-utils :fire::fire: :hourglass:](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams.
-* [aws-fluent-plugin-kinesis :fire::fire:](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin.
-* [dynamodb-streams-kinesis-adapter :fire:](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - DynamoDB Streams Adapter.
-* [kinesis-log4j-appender](https://github.com/awslabs/kinesis-log4j-appender) - Log4J Appender.
-* [kinesis-poster-worker](https://github.com/awslabs/kinesis-poster-worker) - Simple multi-threaded Python Poster and Worker.
-* [kinesis-storm-spout :fire:](https://github.com/awslabs/kinesis-storm-spout) - Spout for Storm.
-* [mqtt-kinesis-bridge](https://github.com/awslabs/mqtt-kinesis-bridge) - Simple MQTT bridge in Python.
+- [amazon-kinesis-aggregators :fire: :zzz:](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations.
+- [amazon-kinesis-client-net](https://github.com/awslabs/amazon-kinesis-client-net) - Client Library for .NET.
+- [amazon-kinesis-client-nodejs :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
+- [amazon-kinesis-client-python :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python.
+- [amazon-kinesis-client-ruby :fire:](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby.
+- [amazon-kinesis-client :fire::fire::fire:](https://github.com/awslabs/amazon-kinesis-client) Client library for Amazon Kinesis.
+- [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) - Libary to integrate with other AWS and non-AWS services.
+- [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app.
+- [amazon-kinesis-learning :fire:](https://github.com/awslabs/amazon-kinesis-learning) - Learning Kinesis Development.
+- [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) - Producer Library.
+- [amazon-kinesis-scaling-utils :fire::fire: :hourglass:](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams.
+- [aws-fluent-plugin-kinesis :fire::fire:](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin.
+- [dynamodb-streams-kinesis-adapter :fire:](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - DynamoDB Streams Adapter.
+- [kinesis-log4j-appender](https://github.com/awslabs/kinesis-log4j-appender) - Log4J Appender.
+- [kinesis-poster-worker](https://github.com/awslabs/kinesis-poster-worker) - Simple multi-threaded Python Poster and Worker.
+- [kinesis-storm-spout :fire:](https://github.com/awslabs/kinesis-storm-spout) - Spout for Storm.
+- [mqtt-kinesis-bridge](https://github.com/awslabs/mqtt-kinesis-bridge) - Simple MQTT bridge in Python.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Lambda
 
 AWS Repos:
 
-* [amazon-elasticsearch-lambda-samples :fire::fire:](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
-* [awslabs/aws-sam-local :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) - CLI tool for local development and testing of Serverless applications.
-* [aws-lambda-go :fire::fire::fire::fire::fire:](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions.
-* [aws-lambda-java-libs :fire::fire::fire:](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
-* [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Redshift loader.
-* [aws-powertools](https://github.com/aws-powertools) - Developer toolkit for Lambda with tracing, logging, metrics, and more (available for [Python](https://github.com/aws-powertools/powertools-lambda-python), [TypeScript](https://github.com/aws-powertools/powertools-lambda-typescript), [Java](https://github.com/aws-powertools/powertools-lambda-java), and [.NET](https://github.com/aws-powertools/powertools-lambda-dotnet)).
-* [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) - Python Serverless Microframework.
-* [create-thumbnails-lambda](https://github.com/awslabs/create-thumbnails-lambda) - Uses the grunt-aws-lambda plugin to help you develop and test.
-* [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
-* [lambda-refarch-fileprocessing :fire::fire:](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
-* [lambda-refarch-iotbackend :fire::fire:](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
-* [lambda-refarch-mobilebackend :fire::fire::fire:](https://github.com/awslabs/lambda-refarch-mobilebackend) - Reference Architecture for creating a Mobile Backend.
-* [lambda-refarch-webapp :fire::fire::fire::fire:](https://github.com/awslabs/lambda-refarch-webapp) - Reference Architecture for creating a Web Application.
+- [amazon-elasticsearch-lambda-samples :fire::fire:](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
+- [awslabs/aws-sam-local :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) - CLI tool for local development and testing of Serverless applications.
+- [aws-lambda-go :fire::fire::fire::fire::fire:](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions.
+- [aws-lambda-java-libs :fire::fire::fire:](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
+- [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Redshift loader.
+- [aws-powertools](https://github.com/aws-powertools) - Developer toolkit for Lambda with tracing, logging, metrics, and more (available for [Python](https://github.com/aws-powertools/powertools-lambda-python), [TypeScript](https://github.com/aws-powertools/powertools-lambda-typescript), [Java](https://github.com/aws-powertools/powertools-lambda-java), and [.NET](https://github.com/aws-powertools/powertools-lambda-dotnet)).
+- [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) - Python Serverless Microframework.
+- [create-thumbnails-lambda](https://github.com/awslabs/create-thumbnails-lambda) - Uses the grunt-aws-lambda plugin to help you develop and test.
+- [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
+- [lambda-refarch-fileprocessing :fire::fire:](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
+- [lambda-refarch-iotbackend :fire::fire:](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
+- [lambda-refarch-mobilebackend :fire::fire::fire:](https://github.com/awslabs/lambda-refarch-mobilebackend) - Reference Architecture for creating a Mobile Backend.
+- [lambda-refarch-webapp :fire::fire::fire::fire:](https://github.com/awslabs/lambda-refarch-webapp) - Reference Architecture for creating a Web Application.
 
 Community Repos:
 
-* [alestic/lambdash :fire::fire::fire: :zzz:](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
-* [Alephbet/gimel :fire::fire: :hourglass:](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using Lambda.
-* [apex/apex  :zzz:](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
-* [claudiajs/claudia :fire::fire::fire::fire::fire: :hourglass:](https://github.com/claudiajs/claudia) - Deploy Node.js projects to Lambda and API Gateway easily.
-* [cloudnative/lambda-chat :fire::fire: :zzz:](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
-* [danilop/LambdAuth :fire::fire::fire::fire: :zzz:](https://github.com/danilop/LambdAuth) - Sample authentication service.
-* [eawsy/aws-lambda-go :fire::fire::fire:](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda.
-* [garnaat/kappa :fire::fire::fire: :zzz:](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
-* [goadapp/goad :fire::fire::fire::fire: :zzz:](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
-* [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - Automate Chrome through Lambda.
-* [grycap/scar :fire::fire::fire: :hourglass:](https://github.com/grycap/scar) - Transparently execute containers out of Docker images in AWS Lambda.
-* [jeremydaly/lambda-api :fire::fire::fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
-* [jimpick/lambda-comments :fire::fire::fire: :zzz:](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
-* [jorgebastida/gordon :fire::fire::fire::fire::fire: :zzz:](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
-* [ks888/LambStatus :fire::fire::fire::fire: :zzz:](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
-* [kubek2k/lambdoku :fire::fire::fire: :zzz:](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
-* [laconiajs/laconia :fire::fire:](https://github.com/laconiajs/laconia) - Create well-crafted serverless applications, effortlessly.
-* [lambci/lambci :fire::fire::fire::fire::fire:](https://github.com/lambci/lambci) - A continuous integration system built on Lambda.
-* [littlstar/s3-lambda :fire::fire::fire::fire: :zzz:](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter).
-* [middyjs/middy :fire::fire::fire::fire::fire:](https://github.com/middyjs/middy) - Nodejs Lambda middlware framwork to make AWS event easy to work with.
-* [mentum/lambdaws :fire::fire::fire::fire: :zzz:](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze.
-* [Miserlou/Zappa :fire::fire::fire::fire::fire: :hourglass:](https://github.com/Miserlou/Zappa) - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
-* [nficano/python-lambda :fire::fire::fire::fire: :hourglass:](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in Lambda.
-* [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
-* [Tim-B/grunt-aws-lambda :fire::fire: :zzz:](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
+- [alestic/lambdash :fire::fire::fire: :zzz:](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
+- [Alephbet/gimel :fire::fire: :hourglass:](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using Lambda.
+- [apex/apex :zzz:](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
+- [claudiajs/claudia :fire::fire::fire::fire::fire: :hourglass:](https://github.com/claudiajs/claudia) - Deploy Node.js projects to Lambda and API Gateway easily.
+- [cloudnative/lambda-chat :fire::fire: :zzz:](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
+- [danilop/LambdAuth :fire::fire::fire::fire: :zzz:](https://github.com/danilop/LambdAuth) - Sample authentication service.
+- [eawsy/aws-lambda-go :fire::fire::fire:](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda.
+- [garnaat/kappa :fire::fire::fire: :zzz:](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
+- [goadapp/goad :fire::fire::fire::fire: :zzz:](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
+- [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - Automate Chrome through Lambda.
+- [grycap/scar :fire::fire::fire: :hourglass:](https://github.com/grycap/scar) - Transparently execute containers out of Docker images in AWS Lambda.
+- [jeremydaly/lambda-api :fire::fire::fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
+- [jimpick/lambda-comments :fire::fire::fire: :zzz:](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
+- [jorgebastida/gordon :fire::fire::fire::fire::fire: :zzz:](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
+- [ks888/LambStatus :fire::fire::fire::fire: :zzz:](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
+- [kubek2k/lambdoku :fire::fire::fire: :zzz:](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
+- [laconiajs/laconia :fire::fire:](https://github.com/laconiajs/laconia) - Create well-crafted serverless applications, effortlessly.
+- [lambci/lambci :fire::fire::fire::fire::fire:](https://github.com/lambci/lambci) - A continuous integration system built on Lambda.
+- [littlstar/s3-lambda :fire::fire::fire::fire: :zzz:](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter).
+- [middyjs/middy :fire::fire::fire::fire::fire:](https://github.com/middyjs/middy) - Nodejs Lambda middlware framwork to make AWS event easy to work with.
+- [mentum/lambdaws :fire::fire::fire::fire: :zzz:](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze.
+- [Miserlou/Zappa :fire::fire::fire::fire::fire: :hourglass:](https://github.com/Miserlou/Zappa) - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
+- [nficano/python-lambda :fire::fire::fire::fire: :hourglass:](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in Lambda.
+- [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
+- [Tim-B/grunt-aws-lambda :fire::fire: :zzz:](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
 
 ### Machine Learning
 
 AWS Repos:
 
-* [deep-learning-containers](https://github.com/aws/deep-learning-containers) - Deep Learning Containers for training and inference with machine learning frameworks.
-* [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
+- [deep-learning-containers](https://github.com/aws/deep-learning-containers) - Deep Learning Containers for training and inference with machine learning frameworks.
+- [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Marketplace
 
 Community Repos:
 
-* [ballerina-aws-marketplace-entitlement](https://github.com/ballerina-platform/module-ballerinax-aws.marketplace.mpe) - The Ballerina connector for AWS Marketplace Entitlement service.
-* [ballerina-aws-marketplace-metering](https://github.com/ballerina-platform/module-ballerinax-aws.marketplace.mpm) - The Ballerina connector for AWS Marketplace Metering service.
+- [ballerina-aws-marketplace-entitlement](https://github.com/ballerina-platform/module-ballerinax-aws.marketplace.mpe) - The Ballerina connector for AWS Marketplace Entitlement service.
+- [ballerina-aws-marketplace-metering](https://github.com/ballerina-platform/module-ballerinax-aws.marketplace.mpm) - The Ballerina connector for AWS Marketplace Metering service.
 
 ### Mobile Analytics
 
 AWS Repos:
 
-* [aws-sdk-mobile-analytics-js :zzz:](https://github.com/aws/aws-sdk-mobile-analytics-js) - JavaScript SDK.
+- [aws-sdk-mobile-analytics-js :zzz:](https://github.com/aws/aws-sdk-mobile-analytics-js) - JavaScript SDK.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### OpsWorks
 
 AWS Repos:
 
-* [opsworks-attribute-customization](https://github.com/awslabs/opsworks-attribute-customization) - Attribute customization example.
-* [opsworks-capistrano](https://github.com/awslabs/opsworks-capistrano) - Capistrano with instances.
-* [opsworks-cloudwatch-logs-cookbooks](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - CloudWatch sample cookbook.
-* [opsworks-cookbooks :fire::fire::fire::fire: :hourglass:](https://github.com/aws/opsworks-cookbooks) - Chef Cookbooks.
-* [opsworks-demo-php-photo-share-app](https://github.com/awslabs/opsworks-demo-php-photo-share-app) - Simple PHP photo share app.
-* [opsworks-demo-php-simple-app](https://github.com/awslabs/opsworks-demo-php-simple-app) - Simple PHP app.
-* [opsworks-demo-rails-photo-share-app](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - A sample Rails app.
-* [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - Elasticsearch sample cookbook.
-* [opsworks-example-cookbooks ](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
-* [opsworks-first-cookbook](https://github.com/awslabs/opsworks-first-cookbook) - Cookbook used to demonstrate simple recipes.
-* [opsworks-windows-demo-](https://github.com/awslabs/opsworks-windows-demo-nodejs) - A sample Node.JS app.
-* [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
-* [todo-sample-app-cookbooks](https://github.com/awslabs/todo-sample-app-cookbooks) - Custom cookbooks associated with the todo-sample-app.
+- [opsworks-attribute-customization](https://github.com/awslabs/opsworks-attribute-customization) - Attribute customization example.
+- [opsworks-capistrano](https://github.com/awslabs/opsworks-capistrano) - Capistrano with instances.
+- [opsworks-cloudwatch-logs-cookbooks](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - CloudWatch sample cookbook.
+- [opsworks-cookbooks :fire::fire::fire::fire: :hourglass:](https://github.com/aws/opsworks-cookbooks) - Chef Cookbooks.
+- [opsworks-demo-php-photo-share-app](https://github.com/awslabs/opsworks-demo-php-photo-share-app) - Simple PHP photo share app.
+- [opsworks-demo-php-simple-app](https://github.com/awslabs/opsworks-demo-php-simple-app) - Simple PHP app.
+- [opsworks-demo-rails-photo-share-app](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - A sample Rails app.
+- [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - Elasticsearch sample cookbook.
+- [opsworks-example-cookbooks ](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
+- [opsworks-first-cookbook](https://github.com/awslabs/opsworks-first-cookbook) - Cookbook used to demonstrate simple recipes.
+- [opsworks-windows-demo-](https://github.com/awslabs/opsworks-windows-demo-nodejs) - A sample Node.JS app.
+- [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
+- [todo-sample-app-cookbooks](https://github.com/awslabs/todo-sample-app-cookbooks) - Custom cookbooks associated with the todo-sample-app.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Redshift
 
 AWS Repos:
 
-* [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
-* [amazon-redshift-utils :fire::fire::fire::fire::fire:](https://github.com/awslabs/amazon-redshift-utils) - Applies optimal Column Encoding to existing Tables.
+- [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
+- [amazon-redshift-utils :fire::fire::fire::fire::fire:](https://github.com/awslabs/amazon-redshift-utils) - Applies optimal Column Encoding to existing Tables.
 
 Community Repos:
 
-* [Lumoslabs/aleph :zzz:](https://github.com/lumoslabs/aleph) - A full featured web application for writing and running Redshift
-queries. Supports revision tracking of queries and has basic visualization support.
-* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/) - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
-* [everythingMe/redshift_console :zzz:](https://github.com/EverythingMe/redshift_console) -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
-* [ballerina-aws-redshift ](https://github.com/ballerina-platform/module-ballerinax-aws.redshift) -  A Ballerina connector for Amazon Redshift, enabling you to connect, run queries, and manage data directly from your Ballerina code.
+- [Lumoslabs/aleph :zzz:](https://github.com/lumoslabs/aleph) - A full featured web application for writing and running Redshift
+  queries. Supports revision tracking of queries and has basic visualization support.
+- [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/) - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
+- [everythingMe/redshift_console :zzz:](https://github.com/EverythingMe/redshift_console) - A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
+- [ballerina-aws-redshift ](https://github.com/ballerina-platform/module-ballerinax-aws.redshift) - A Ballerina connector for Amazon Redshift, enabling you to connect, run queries, and manage data directly from your Ballerina code.
 
 ### Route 53
 
 AWS Repos:
 
-* [route53-infima :fire::fire: :zzz:](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
+- [route53-infima :fire::fire: :zzz:](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
 
 Community Repos:
 
-* [barnybug/cli53 :fire::fire::fire::fire::fire:](https://github.com/barnybug/cli53) - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
-* [winebarrel/roadworker :fire::fire:](https://github.com/winebarrel/roadworker) - Roadworker is a tool to manage Route53. It defines the state of Route53 using DSL, and updates Route53 according to DSL.
+- [barnybug/cli53 :fire::fire::fire::fire::fire:](https://github.com/barnybug/cli53) - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
+- [winebarrel/roadworker :fire::fire:](https://github.com/winebarrel/roadworker) - Roadworker is a tool to manage Route53. It defines the state of Route53 using DSL, and updates Route53 according to DSL.
 
 ### S3
 
 Community Repos:
 
-* [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
-* [bloomreach/s4cmd :fire::fire::fire::fire:](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files.
-* [CulturalMe/meteor-slingshot :fire::fire::fire: :hourglass:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
-* [danilop/yas3fs :fire::fire::fire: :zzz:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
-* [grippy/node-s3 :zzz:](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
-* [jubos/fake-s3 :fire::fire::fire::fire::fire: :hourglass:](https://github.com/jubos/fake-s3) - Lightweight S3 clone that simulates most commands.
-* [kahing/goofys :fire::fire::fire::fire::fire:](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
-* [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join)
-* [marcel/aws-s3 :fire::fire::fire: :zzz:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
-* [mardix/flask-cloudy :fire::fire: :zzz:](https://github.com/mardix/flask-cloudy) - Flask extension.
-* [MathieuLoutre/grunt-aws-s3 :fire::fire: :zzz:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
-* [mickael-kerjean/filestash :fire::fire::fire::fire::fire:](https://github.com/mickael-kerjean/filestash) - A modern web client for S3.
-* [minio/mc :fire::fire::fire::fire::fire:](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
-* [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - Object storage server compatible with S3.
-* [mumrah/s3-multipart :fire: :zzz:](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
-* [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
-* [orangekame3/stree :fire:](https://github.com/orangekame3/stree) - Tree command for S3.
-* [owocki/s3_disk_util :fire: :zzz:](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
-* [peak/s5cmd :fire::fire::fire::fire::fire:](https://github.com/peak/s5cmd) - Fast S3 and local filesystem execution tool with wildcard and batch command support.
-* [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
-* [rlmcpherson/s3gof3r :fire::fire::fire::fire: :zzz:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI.
-* [s3git/s3git :fire::fire::fire::fire: :zzz:](https://github.com/s3git/s3git) - CLI tool that allows you to create a distributed, decentralized and versioned repository.
-* [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire:](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
-* [s3m/s3m ](https://github.com/s3m/s3m) - CLI tool for storing streams of data in s3 buckets.
-* [s3tools/s3cmd :fire::fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
-* [schickling/git-s3 :fire::fire: :zzz:](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
-* [sorentwo/carrierwave-aws :fire::fire:](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
-* [spring-projects/aws-maven :fire::fire:](https://github.com/spring-projects/aws-maven) -  Maven Wagon for S3.
-* [tongwang/s3fs-c :fire: :zzz:](https://github.com/tongwang/s3fs-c) - Mounts buckets for use on a local file system.
-* [mishudark/s3-parallel-put :fire::fire: :zzz:](https://github.com/mishudark/s3-parallel-put) - CLI that supports parallel uploads.
-* [waynehoover/s3_direct_upload :fire::fire::fire: :hourglass:](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
-* [weavejester/clj-aws-s3 :fire: :zzz:](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
+- [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
+- [bloomreach/s4cmd :fire::fire::fire::fire:](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files.
+- [CulturalMe/meteor-slingshot :fire::fire::fire: :hourglass:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
+- [danilop/yas3fs :fire::fire::fire: :zzz:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
+- [grippy/node-s3 :zzz:](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
+- [jubos/fake-s3 :fire::fire::fire::fire::fire: :hourglass:](https://github.com/jubos/fake-s3) - Lightweight S3 clone that simulates most commands.
+- [kahing/goofys :fire::fire::fire::fire::fire:](https://github.com/kahing/goofys) - a Filey System for Amazon S3 written in Go.
+- [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join)
+- [marcel/aws-s3 :fire::fire::fire: :zzz:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
+- [mardix/flask-cloudy :fire::fire: :zzz:](https://github.com/mardix/flask-cloudy) - Flask extension.
+- [MathieuLoutre/grunt-aws-s3 :fire::fire: :zzz:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
+- [mickael-kerjean/filestash :fire::fire::fire::fire::fire:](https://github.com/mickael-kerjean/filestash) - A modern web client for S3.
+- [minio/mc :fire::fire::fire::fire::fire:](https://github.com/minio/mc) - Minio Client for filesystem and cloud storage.
+- [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - Object storage server compatible with S3.
+- [mumrah/s3-multipart :fire: :zzz:](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
+- [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
+- [orangekame3/stree :fire:](https://github.com/orangekame3/stree) - Tree command for S3.
+- [owocki/s3_disk_util :fire: :zzz:](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
+- [peak/s5cmd :fire::fire::fire::fire::fire:](https://github.com/peak/s5cmd) - Fast S3 and local filesystem execution tool with wildcard and batch command support.
+- [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
+- [rlmcpherson/s3gof3r :fire::fire::fire::fire: :zzz:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI.
+- [s3git/s3git :fire::fire::fire::fire: :zzz:](https://github.com/s3git/s3git) - CLI tool that allows you to create a distributed, decentralized and versioned repository.
+- [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire:](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
+- [s3m/s3m ](https://github.com/s3m/s3m) - CLI tool for storing streams of data in s3 buckets.
+- [s3tools/s3cmd :fire::fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
+- [schickling/git-s3 :fire::fire: :zzz:](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
+- [sorentwo/carrierwave-aws :fire::fire:](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
+- [spring-projects/aws-maven :fire::fire:](https://github.com/spring-projects/aws-maven) - Maven Wagon for S3.
+- [tongwang/s3fs-c :fire: :zzz:](https://github.com/tongwang/s3fs-c) - Mounts buckets for use on a local file system.
+- [mishudark/s3-parallel-put :fire::fire: :zzz:](https://github.com/mishudark/s3-parallel-put) - CLI that supports parallel uploads.
+- [waynehoover/s3_direct_upload :fire::fire::fire: :hourglass:](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
+- [weavejester/clj-aws-s3 :fire: :zzz:](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
 
 ### SES
 
 Community Repos:
 
-* [drewblas/aws-ses :fire::fire::fire: :zzz:](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
+- [drewblas/aws-ses :fire::fire::fire: :zzz:](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
 
 ### Simple Workflow
 
 AWS Repos:
 
-* [aws-flow-ruby :fire:](https://github.com/aws/aws-flow-ruby) - Creates background jobs and multistep workflows.
-* [aws-flow-ruby-samples](https://github.com/awslabs/aws-flow-ruby-samples) - AWS Flow Framework for Ruby samples.
-* [aws-flow-ruby-opsworks-helloworld](https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld) - Hello World sample.
+- [aws-flow-ruby :fire:](https://github.com/aws/aws-flow-ruby) - Creates background jobs and multistep workflows.
+- [aws-flow-ruby-samples](https://github.com/awslabs/aws-flow-ruby-samples) - AWS Flow Framework for Ruby samples.
+- [aws-flow-ruby-opsworks-helloworld](https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld) - Hello World sample.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### SimpleDB
 
 Community Repos:
 
-* [rjrodger/simpledb :fire: :zzz:](https://github.com/rjrodger/simpledb) - Node.js library.
+- [rjrodger/simpledb :fire: :zzz:](https://github.com/rjrodger/simpledb) - Node.js library.
 
 ### SNS
 
 AWS Repos:
 
-* [aws-php-sns-message-validator :fire::fire:](https://github.com/aws/aws-php-sns-message-validator) - Message validation for PHP.
+- [aws-php-sns-message-validator :fire::fire:](https://github.com/aws/aws-php-sns-message-validator) - Message validation for PHP.
 
 Community Repos:
 
-* [ballerina-aws-sns :fire:](https://github.com/ballerina-platform/module-ballerinax-aws.sns) - The Ballerina connector for AWS SNS.
+- [ballerina-aws-sns :fire:](https://github.com/ballerina-platform/module-ballerinax-aws.sns) - The Ballerina connector for AWS SNS.
 
 ### SQS
 
 AWS Repos:
 
-* [amazon-sqs-java-messaging-lib :fire:](https://github.com/awslabs/amazon-sqs-java-messaging-lib) - Holds the Java Message Service to communicate with SQS.
+- [amazon-sqs-java-messaging-lib :fire:](https://github.com/awslabs/amazon-sqs-java-messaging-lib) - Holds the Java Message Service to communicate with SQS.
 
 Community Repos:
 
-* [phstc/shoryuken :fire::fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
-* [yokawasa/sqs-bulk-loader :zzz:](https://github.com/yokawasa/sqs-bulk-loader) - A tool that sends bulk messages in parallel to AWS SQS.
+- [phstc/shoryuken :fire::fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
+- [yokawasa/sqs-bulk-loader :zzz:](https://github.com/yokawasa/sqs-bulk-loader) - A tool that sends bulk messages in parallel to AWS SQS.
 
 ### Data
 
 AWS Repos:
 
-* [aws-data-wrangler :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
+- [aws-data-wrangler :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
 
 Community Repos:
 
-* [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
-* [everpeace/vagrant-mesos :fire::fire: :zzz:](https://github.com/everpeace/vagrant-mesos) - Spin up your Mesos Cluster with Vagrant.
-* [jhorey/ferry :fire::fire: :zzz:](https://github.com/jhorey/ferry) -  Define, run, and deploy big data apps using Docker.
-* [nathanmarz/storm-deploy :fire::fire::fire: :zzz:](https://github.com/nathanmarz/storm-deploy) - One click deploy for Storm clusters.
+- [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
+- [everpeace/vagrant-mesos :fire::fire: :zzz:](https://github.com/everpeace/vagrant-mesos) - Spin up your Mesos Cluster with Vagrant.
+- [jhorey/ferry :fire::fire: :zzz:](https://github.com/jhorey/ferry) - Define, run, and deploy big data apps using Docker.
+- [nathanmarz/storm-deploy :fire::fire::fire: :zzz:](https://github.com/nathanmarz/storm-deploy) - One click deploy for Storm clusters.
 
 ### DevOps
 
 Community Repos:
 
-* [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for management, DSL in yaml for query, filter, and actions on resources.
-* [chef-cookbooks/aws :fire::fire::fire:](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
-* [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
-* [glnk-dev/glnk.dev](https://github.com/glnk-dev) - Go-links for AWS console. Quick shortcuts like `aws.glnk.dev/s3`, `aws.glnk.dev/ec2` with region support.
-* [k1LoW/awspec :fire::fire::fire::fire:](https://github.com/k1LoW/awspec) - RSpec tests your resources.
-* [mitchellh/vagrant-aws :fire::fire::fire::fire::fire: :zzz:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
-* [NixOS/nixops :fire::fire::fire::fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
-* [someengineering/resoto :fire::fire::fire::fire::fire:](https://github.com/someengineering/resoto) - Improve visibility, control, cost, and compliance in your cloud.
+- [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for management, DSL in yaml for query, filter, and actions on resources.
+- [chef-cookbooks/aws :fire::fire::fire:](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
+- [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
+- [glnk-dev/glnk.dev](https://github.com/glnk-dev) - Go-links for AWS console. Quick shortcuts like `aws.glnk.dev/s3`, `aws.glnk.dev/ec2` with region support.
+- [k1LoW/awspec :fire::fire::fire::fire:](https://github.com/k1LoW/awspec) - RSpec tests your resources.
+- [mitchellh/vagrant-aws :fire::fire::fire::fire::fire: :zzz:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
+- [NixOS/nixops :fire::fire::fire::fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
+- [someengineering/resoto :fire::fire::fire::fire::fire:](https://github.com/someengineering/resoto) - Improve visibility, control, cost, and compliance in your cloud.
+- [aws/aws-cdk](https://github.com/aws/aws-cdk) - Define cloud infrastructure using programming languages
 
 ### Security
 
 AWS Repos:
 
-* [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 Agent Compatibility Ccanner.
-* [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - Token Vending Machine for Anonymous Registration.
-* [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - Token Vending Machine for Identity Registration.
-* [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols.
+- [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 Agent Compatibility Ccanner.
+- [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - Token Vending Machine for Anonymous Registration.
+- [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - Token Vending Machine for Identity Registration.
+- [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols.
 
 Community Repos:
 
-* [AdRoll/hologram :fire::fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
-* [alex/letsencrypt-aws :fire::fire::fire: :zzz:](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
-* [bridgecrewio/checkov :fire::fire::fire::fire::fire:](https://github.com/bridgecrewio/checkov) - Terraform static analysis, verifies security best practices.
-* [ccbrown/cloud-snitch :fire::fire:](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity.
-* [cloudsploit/scans :fire::fire::fire::fire::fire:](https://github.com/cloudsploit/scans) - Detects security risks.
-* [nccgroup/ScoutSuite :fire::fire::fire::fire::fire:](https://github.com/nccgroup/ScoutSuite) - Security auditing tool.
-* [jordanpotti/AWSBucketDump :fire::fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets.
-* [Netflix/bless :fire::fire::fire::fire::fire:](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
-* [Netflix/security_monkey :fire::fire::fire::fire::fire: :zzz:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
-* [RiotGames/cloud-inquisitor :fire::fire: :zzz:](https://github.com/RiotGames/cloud-inquisitor) - Tool to enforce ownership and data security.
-* [salesforce/policy_sentry :fire::fire::fire::fire::fire:](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
-* [sebsto/AWSVPN :fire: :zzz:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
-* [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
-* [bad-antics/nullsec-awsrecon](https://github.com/bad-antics/nullsec-awsrecon) - AWS security reconnaissance tool with IAM enumeration, S3 bucket analysis, and credential exposure detection.
-* [ttlequals0/autovpn :fire::fire::fire::fire::fire: :zzz:](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
+- [AdRoll/hologram :fire::fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
+- [alex/letsencrypt-aws :fire::fire::fire: :zzz:](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
+- [bridgecrewio/checkov :fire::fire::fire::fire::fire:](https://github.com/bridgecrewio/checkov) - Terraform static analysis, verifies security best practices.
+- [ccbrown/cloud-snitch :fire::fire:](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity.
+- [cloudsploit/scans :fire::fire::fire::fire::fire:](https://github.com/cloudsploit/scans) - Detects security risks.
+- [nccgroup/ScoutSuite :fire::fire::fire::fire::fire:](https://github.com/nccgroup/ScoutSuite) - Security auditing tool.
+- [jordanpotti/AWSBucketDump :fire::fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets.
+- [Netflix/bless :fire::fire::fire::fire::fire:](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
+- [Netflix/security_monkey :fire::fire::fire::fire::fire: :zzz:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
+- [RiotGames/cloud-inquisitor :fire::fire: :zzz:](https://github.com/RiotGames/cloud-inquisitor) - Tool to enforce ownership and data security.
+- [salesforce/policy_sentry :fire::fire::fire::fire::fire:](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
+- [sebsto/AWSVPN :fire: :zzz:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
+- [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
+- [bad-antics/nullsec-awsrecon](https://github.com/bad-antics/nullsec-awsrecon) - AWS security reconnaissance tool with IAM enumeration, S3 bucket analysis, and credential exposure detection.
+- [ttlequals0/autovpn :fire::fire::fire::fire::fire: :zzz:](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
 
 ### Accompanying Repos
 
 AWS Repos:
 
-*Repos Accompanying Blogs, Training Events, and Conferences.*
+_Repos Accompanying Blogs, Training Events, and Conferences._
 
-* [aws-arch-backoff-simulator :fire::fire:](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
-* [aws-big-data-blog :fire::fire::fire:](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
-* [aws-demo-php-simple-app](https://github.com/awslabs/aws-demo-php-simple-app) - PHP apps from the AWS Blogs.
-* [aws-mobile-sample-wif](https://github.com/awslabs/aws-mobile-sample-wif) - Samples from the AWS Mobile SDK blog.
-* [aws-mobile-self-paced-labs-samples](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - Android Snake Game from a self-paced lab.
-* [aws-quickstart](https://github.com/aws-quickstart/) - Official repository for AWS Quick Start.
-* [aws-spot-labs :fire::fire::fire:](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
-* [aws-training-demo :fire:](https://github.com/awslabs/aws-training-demo) - Demos from the Technical Trainers community.
-* [java-meme-generator-sample](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012.
-* [railsconf2013-tech-demo :fire:](https://github.com/awslabs/railsconf2013-tech-demo) - Seahorse demo from RailsConf 2013.
-* [reinvent2013-js-blog-demo](https://github.com/awslabs/reinvent2013-js-blog-demo) - Demo blogging app from re:Invent 2013.
-* [reinvent2013-mobile-photo-share](https://github.com/awslabs/reinvent2013-mobile-photo-share) - Mobile photo share app from re:Invent 2014.
-* [reinvent2014-scalable-site-management](https://github.com/awslabs/reinvent2014-scalable-site-management) - Scalable site management sample from re:Invent 2014.
-* [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) - Large Scale Metrics Analysis from re:Invent 2015.
-* [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - Security analytics sample from 2015 re:Invent 2015.
-* [todo-sample-app](https://github.com/awslabs/todo-sample-app) - Simple "Todo" app from RailsConf 2014.
+- [aws-arch-backoff-simulator :fire::fire:](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
+- [aws-big-data-blog :fire::fire::fire:](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
+- [aws-demo-php-simple-app](https://github.com/awslabs/aws-demo-php-simple-app) - PHP apps from the AWS Blogs.
+- [aws-mobile-sample-wif](https://github.com/awslabs/aws-mobile-sample-wif) - Samples from the AWS Mobile SDK blog.
+- [aws-mobile-self-paced-labs-samples](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - Android Snake Game from a self-paced lab.
+- [aws-quickstart](https://github.com/aws-quickstart/) - Official repository for AWS Quick Start.
+- [aws-spot-labs :fire::fire::fire:](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
+- [aws-training-demo :fire:](https://github.com/awslabs/aws-training-demo) - Demos from the Technical Trainers community.
+- [java-meme-generator-sample](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012.
+- [railsconf2013-tech-demo :fire:](https://github.com/awslabs/railsconf2013-tech-demo) - Seahorse demo from RailsConf 2013.
+- [reinvent2013-js-blog-demo](https://github.com/awslabs/reinvent2013-js-blog-demo) - Demo blogging app from re:Invent 2013.
+- [reinvent2013-mobile-photo-share](https://github.com/awslabs/reinvent2013-mobile-photo-share) - Mobile photo share app from re:Invent 2014.
+- [reinvent2014-scalable-site-management](https://github.com/awslabs/reinvent2014-scalable-site-management) - Scalable site management sample from re:Invent 2014.
+- [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) - Large Scale Metrics Analysis from re:Invent 2015.
+- [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - Security analytics sample from 2015 re:Invent 2015.
+- [todo-sample-app](https://github.com/awslabs/todo-sample-app) - Simple "Todo" app from RailsConf 2014.
 
 Community Repos:
 
-* [startup-class/setup :fire::fire: :zzz:](https://github.com/startup-class/setup) -  EC2 setup files for Startup Engineering MOOC.
+- [startup-class/setup :fire::fire: :zzz:](https://github.com/startup-class/setup) - EC2 setup files for Startup Engineering MOOC.
 
 ### Miscellaneous Repos
 
 AWS Repos:
 
-* [amediamanager](https://github.com/awslabs/amediamanager) - Media manager.
-* [aws-hal-client-java](https://github.com/awslabs/aws-hal-client-java) - Java client for the Hypertext Application Language.
-* [aws-model-validators](https://github.com/awslabs/aws-model-validators) - Tools for validating the AWS service JSON model files.
-* [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) - Sample cross-platform video transcoder app.
-* [simplebeerservice :fire::fire: :zzz:](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
+- [amediamanager](https://github.com/awslabs/amediamanager) - Media manager.
+- [aws-hal-client-java](https://github.com/awslabs/aws-hal-client-java) - Java client for the Hypertext Application Language.
+- [aws-model-validators](https://github.com/awslabs/aws-model-validators) - Tools for validating the AWS service JSON model files.
+- [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) - Sample cross-platform video transcoder app.
+- [simplebeerservice :fire::fire: :zzz:](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
 Community Repos:
 
-* [bcoe/thumbd :fire::fire: :zzz:](https://github.com/bcoe/thumbd) - Node.js/ImageMagick-based image thumbnailing service.
-* [brexhq/substation :fire::fire:](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
-* [cdkpatterns/serverless :fire::fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
-* [Comcast/cmb :fire::fire: :zzz:](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
-* [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - Open-source PaaS on AWS.
-* [devops-israel/aws-inventory :fire::fire: :zzz:](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
-* [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
-* [dtan4/terraforming :fire::fire::fire::fire::fire: :zzz:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
-* [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - CLI tool for AWS account health checks, cost analysis, and detecting unused resources.
-* [segmentio/stack :fire::fire::fire::fire::fire: :hourglass:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
-* [GoogleCloudPlatform/terraformer :fire::fire::fire::fire::fire:](https://github.com/GoogleCloudPlatform/terraformer#use-with-aws) - A tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform). (Originally from Waze SRE team, but mostly cloud-agnostic)
-* [j2labs/microarmy  :zzz:](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
-* [jpillora/grunt-aws :fire: :zzz:](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK.
-* [jvehent/haproxy-aws :fire::fire: :zzz:](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
-* [localstack/localstack :fire::fire::fire::fire::fire:](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
-* [meducation/propono :fire::fire:](https://github.com/meducation/propono) - Easy-to-use pub/sub in Ruby.
-* [mozilla/awsbox :fire::fire::fire: :zzz:](https://github.com/mozilla/awsbox) - A featherweight PaaS on top of EC2 for deploying node apps.
-* [Netflix/aminator :fire::fire::fire: :hourglass:](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
-* [Netflix/archaius :fire::fire::fire::fire::fire:](https://github.com/Netflix/archaius) - Library for configuration management API.
-* [Netflix/asgard :fire::fire::fire::fire::fire: :hourglass:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
-* [Netflix/aws-autoscaling :fire::fire: :zzz:](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
-* [Netflix/chaosmonkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
-* [Netflix/eureka :fire::fire::fire::fire::fire:](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover.
-* [Netflix/EVCache :fire::fire::fire::fire::fire:](https://github.com/Netflix/EVCache) - A distributed in-memory data store.
-* [Netflix/Fenzo :fire::fire::fire: :hourglass:](https://github.com/Netflix/Fenzo) - Extensible Scheduler for Mesos Frameworks.
-* [Netflix/ice :fire::fire::fire::fire::fire:](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
-* [Netflix/ribbon :fire::fire::fire::fire::fire:](https://github.com/Netflix/ribbon) - Remote procedure call library with built in software load balancers.
-* [Netflix/SimianArmy :fire::fire::fire::fire::fire: :zzz:](https://github.com/Netflix/SimianArmy) - Tools to keep your cloud operating in top form.
-* [Netflix/zuul :fire::fire::fire::fire::fire:](https://github.com/Netflix/zuul) - Edge service that provides dynamic routing, monitoring, resiliency, security, and more.
-* [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
-* [mhart/react-server-routing-example :fire::fire: :zzz:](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
-* [Similarweb/finala :fire::fire::fire: :hourglass:](https://github.com/similarweb/finala) - A resource cloud scanner that analyzes and reports wasteful and unused resources to cut unwanted expenses.
-* [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
-* [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
-* [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
-* [Stacktape/stacktape](https://github.com/stacktape/stacktape) - DevOps-free application development framework.
+- [bcoe/thumbd :fire::fire: :zzz:](https://github.com/bcoe/thumbd) - Node.js/ImageMagick-based image thumbnailing service.
+- [brexhq/substation :fire::fire:](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+- [cdkpatterns/serverless :fire::fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
+- [Comcast/cmb :fire::fire: :zzz:](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
+- [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - Open-source PaaS on AWS.
+- [devops-israel/aws-inventory :fire::fire: :zzz:](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
+- [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
+- [dtan4/terraforming :fire::fire::fire::fire::fire: :zzz:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
+- [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - CLI tool for AWS account health checks, cost analysis, and detecting unused resources.
+- [segmentio/stack :fire::fire::fire::fire::fire: :hourglass:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
+- [GoogleCloudPlatform/terraformer :fire::fire::fire::fire::fire:](https://github.com/GoogleCloudPlatform/terraformer#use-with-aws) - A tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform). (Originally from Waze SRE team, but mostly cloud-agnostic)
+- [j2labs/microarmy :zzz:](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
+- [jpillora/grunt-aws :fire: :zzz:](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK.
+- [jvehent/haproxy-aws :fire::fire: :zzz:](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
+- [localstack/localstack :fire::fire::fire::fire::fire:](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+- [meducation/propono :fire::fire:](https://github.com/meducation/propono) - Easy-to-use pub/sub in Ruby.
+- [mozilla/awsbox :fire::fire::fire: :zzz:](https://github.com/mozilla/awsbox) - A featherweight PaaS on top of EC2 for deploying node apps.
+- [Netflix/aminator :fire::fire::fire: :hourglass:](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
+- [Netflix/archaius :fire::fire::fire::fire::fire:](https://github.com/Netflix/archaius) - Library for configuration management API.
+- [Netflix/asgard :fire::fire::fire::fire::fire: :hourglass:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
+- [Netflix/aws-autoscaling :fire::fire: :zzz:](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
+- [Netflix/chaosmonkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
+- [Netflix/eureka :fire::fire::fire::fire::fire:](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover.
+- [Netflix/EVCache :fire::fire::fire::fire::fire:](https://github.com/Netflix/EVCache) - A distributed in-memory data store.
+- [Netflix/Fenzo :fire::fire::fire: :hourglass:](https://github.com/Netflix/Fenzo) - Extensible Scheduler for Mesos Frameworks.
+- [Netflix/ice :fire::fire::fire::fire::fire:](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
+- [Netflix/ribbon :fire::fire::fire::fire::fire:](https://github.com/Netflix/ribbon) - Remote procedure call library with built in software load balancers.
+- [Netflix/SimianArmy :fire::fire::fire::fire::fire: :zzz:](https://github.com/Netflix/SimianArmy) - Tools to keep your cloud operating in top form.
+- [Netflix/zuul :fire::fire::fire::fire::fire:](https://github.com/Netflix/zuul) - Edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
+- [mhart/react-server-routing-example :fire::fire: :zzz:](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
+- [Similarweb/finala :fire::fire::fire: :hourglass:](https://github.com/similarweb/finala) - A resource cloud scanner that analyzes and reports wasteful and unused resources to cut unwanted expenses.
+- [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
+- [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
+- [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
+- [Stacktape/stacktape](https://github.com/stacktape/stacktape) - DevOps-free application development framework.
 
 ## Guides, Books, Documentation, and Training
 
-*How-to's, training, whitepapers, docs, and case studies.*
+_How-to's, training, whitepapers, docs, and case studies._
 
 <br/>
 <p align="center">
@@ -1097,111 +1099,111 @@ Community Repos:
 
 AWS Guides:
 
-* [Getting Started with AWS](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html)
-* [Getting Started Tutorials](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html)
-    * [Run a Virtual Server](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2614)
-    * [Store Files](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2683)
-    * [Share Digital Media](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2755)
-    * [Deploy a Website](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2767)
-    * [Host a Website (Linux)](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2836)
-    * [Host a Website (Windows)](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2908)
-    * [Run a Database](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2980)
-    * [Analyze Your Data](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e3065)
+- [Getting Started with AWS](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html)
+- [Getting Started Tutorials](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html)
+  - [Run a Virtual Server](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2614)
+  - [Store Files](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2683)
+  - [Share Digital Media](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2755)
+  - [Deploy a Website](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2767)
+  - [Host a Website (Linux)](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2836)
+  - [Host a Website (Windows)](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2908)
+  - [Run a Database](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2980)
+  - [Analyze Your Data](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e3065)
 
 Community Guides:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### General Guides
 
 AWS Guides:
 
-* [Analyzing Big Data](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
-    * [Sentiment Analysis](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
-    * [Web Server Log Analysis](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
-* [Working with the AWS Management Console](http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
-* [Deploying a Web App Using Elastic Beanstalk](http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html)
-* [Hosting a Web App](http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html)
-* [Hosting a .NET Web App](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
-* [Hosting a Static Website](http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html)
-* [Quick Start Deployment Guides](https://aws.amazon.com/documentation/quickstart/)
-* [Production-Ready Serverless](https://github.com/donnemartin/awesome-aws)
-Community Guides:
+- [Analyzing Big Data](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
+  - [Sentiment Analysis](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
+  - [Web Server Log Analysis](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
+- [Working with the AWS Management Console](http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
+- [Deploying a Web App Using Elastic Beanstalk](http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html)
+- [Hosting a Web App](http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html)
+- [Hosting a .NET Web App](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
+- [Hosting a Static Website](http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html)
+- [Quick Start Deployment Guides](https://aws.amazon.com/documentation/quickstart/)
+- [Production-Ready Serverless](https://github.com/donnemartin/awesome-aws)
+  Community Guides:
 
-* [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
-* [Microservices with Docker, Flask, and React](https://testdriven.io/) - In this course, you will learn how to quickly spin up a reproducible development environment with Docker to manage a number of microservices. Once the app is up and running locally, you'll learn how to deploy it to an Amazon EC2 instance. Finally, we'll look at scaling the services on Amazon EC2 Container Service (ECS).
+- [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
+- [Microservices with Docker, Flask, and React](https://testdriven.io/) - In this course, you will learn how to quickly spin up a reproducible development environment with Docker to manage a number of microservices. Once the app is up and running locally, you'll learn how to deploy it to an Amazon EC2 instance. Finally, we'll look at scaling the services on Amazon EC2 Container Service (ECS).
 
 ### Books
 
-* Amazon Web Services in Action, Third Edition [Manning](http://mng.bz/7dVg) or [Amazon.com](http://mng.bz/magM)
-* AWS Lambda in Action [Manning :zzz:](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
-* Serverless Machine Learning in Action with AWS and PyTorch [Manning](https://www.manning.com/books/serverless-machine-learning-in-action)
+- Amazon Web Services in Action, Third Edition [Manning](http://mng.bz/7dVg) or [Amazon.com](http://mng.bz/magM)
+- AWS Lambda in Action [Manning :zzz:](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+- Serverless Machine Learning in Action with AWS and PyTorch [Manning](https://www.manning.com/books/serverless-machine-learning-in-action)
 
 ### Whitepapers
 
-* [AWS Well-Architected Framework](https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-* [Whitepapers](https://aws.amazon.com/whitepapers/)
+- [AWS Well-Architected Framework](https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+- [Whitepapers](https://aws.amazon.com/whitepapers/)
 
 ### Documentation
 
-* [Documentation](https://aws.amazon.com/documentation/)
-* [AWS Billing and Cost Management](https://aws.amazon.com/documentation/account-billing/)
-* [AWS Marketplace](https://aws.amazon.com/documentation/marketplace/)
-* [AWS Support](https://aws.amazon.com/documentation/aws-support/)
-* [AWS General Reference](http://docs.aws.amazon.com/general/latest/gr/)
-* [AWS Glossary](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
+- [Documentation](https://aws.amazon.com/documentation/)
+- [AWS Billing and Cost Management](https://aws.amazon.com/documentation/account-billing/)
+- [AWS Marketplace](https://aws.amazon.com/documentation/marketplace/)
+- [AWS Support](https://aws.amazon.com/documentation/aws-support/)
+- [AWS General Reference](http://docs.aws.amazon.com/general/latest/gr/)
+- [AWS Glossary](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
 
 ### Training
 
-* [Training and Certification](https://aws.amazon.com/training/)
-* [Webinars](https://aws.amazon.com/about-aws/events/)
+- [Training and Certification](https://aws.amazon.com/training/)
+- [Webinars](https://aws.amazon.com/about-aws/events/)
 
 ### Case Studies: Powered by AWS
 
-* [Adobe](https://aws.amazon.com/solutions/case-studies/adobe/)
-* [AdRoll](https://aws.amazon.com/solutions/case-studies/adroll/)
-* [Airbnb](https://aws.amazon.com/solutions/case-studies/airbnb/)
-* [Autodesk](https://aws.amazon.com/solutions/case-studies/autodesk/)
-* [Citrix](https://aws.amazon.com/solutions/case-studies/citrix/)
-* [Comcast](https://aws.amazon.com/solutions/case-studies/comcast/)
-* [Coursera](https://aws.amazon.com/solutions/case-studies/coursera/)
-* [Docker](https://aws.amazon.com/solutions/case-studies/docker/)
-* [Dow Jones](https://aws.amazon.com/solutions/case-studies/dow-jones/)
-* [Dropbox](https://www.dropbox.com/)
-* [Dropcam](https://aws.amazon.com/solutions/case-studies/dropcam/)
-* [Expedia](https://aws.amazon.com/solutions/case-studies/expedia/)
-* [Foursquare](https://aws.amazon.com/solutions/case-studies/foursquare/)
-* [IMDb](https://aws.amazon.com/solutions/case-studies/imdb/)
-* [Instrumental](https://instrumentalapp.com/blog/aws-kinesis/)
-* [Intuit](https://aws.amazon.com/solutions/case-studies/soasta-intuit/)
-* [Johnson & Johnson](https://aws.amazon.com/solutions/case-studies/johnson-and-johnson/)
-* [Lionsgate](https://aws.amazon.com/solutions/case-studies/lionsgate/)
-* [mlbam](https://aws.amazon.com/solutions/case-studies/major-league-baseball-mlbam/)
-* [NASA](https://aws.amazon.com/solutions/case-studies/nasa-jpl-curiosity/)
-* [Netflix](https://aws.amazon.com/solutions/case-studies/netflix/)
-* [Nike](https://web.archive.org/web/20150910200649/http://aws.amazon.com/solutions/case-studies/nike/)
-* [Nokia](https://web.archive.org/web/20161210062336/https://aws.amazon.com/solutions/case-studies/nokia/)
-* [PBS](https://aws.amazon.com/solutions/case-studies/pbs/)
-* [Pfizer](https://web.archive.org/web/20161210034734/https://aws.amazon.com/solutions/case-studies/pfizer/)
-* [Philips](https://aws.amazon.com/solutions/case-studies/philips/)
-* [Reddit](https://web.archive.org/web/20150905070945/https://aws.amazon.com/solutions/case-studies/reddit/)
-* [Samsung](https://aws.amazon.com/solutions/case-studies/samsung/)
-* [Siemens](https://aws.amazon.com/solutions/case-studies/siemens/)
-* [Slack](https://aws.amazon.com/solutions/case-studies/slack/)
-* [Spotify](https://web.archive.org/web/20180608043124/https://aws.amazon.com/solutions/case-studies/spotify/)
-* [Swiftkey](https://web.archive.org/web/20160410051253/https://aws.amazon.com/solutions/case-studies/swiftkey/)
-* [The Weather Company](https://aws.amazon.com/solutions/case-studies/the-weather-company/)
-* [Ticketmaster](https://aws.amazon.com/solutions/case-studies/ticketmaster/)
-* [Time Inc](https://aws.amazon.com/solutions/case-studies/time-inc/)
-* [Twilio](https://aws.amazon.com/solutions/case-studies/twilio/)
-* [U.S. Department of State](https://aws.amazon.com/solutions/case-studies/exchangesconnect/)
-* [Ubisoft](https://aws.amazon.com/solutions/case-studies/ubisoft/)
-* [Yelp](https://aws.amazon.com/solutions/case-studies/yelp-docker/)
-* [Zillow](https://aws.amazon.com/solutions/case-studies/zillow/)
+- [Adobe](https://aws.amazon.com/solutions/case-studies/adobe/)
+- [AdRoll](https://aws.amazon.com/solutions/case-studies/adroll/)
+- [Airbnb](https://aws.amazon.com/solutions/case-studies/airbnb/)
+- [Autodesk](https://aws.amazon.com/solutions/case-studies/autodesk/)
+- [Citrix](https://aws.amazon.com/solutions/case-studies/citrix/)
+- [Comcast](https://aws.amazon.com/solutions/case-studies/comcast/)
+- [Coursera](https://aws.amazon.com/solutions/case-studies/coursera/)
+- [Docker](https://aws.amazon.com/solutions/case-studies/docker/)
+- [Dow Jones](https://aws.amazon.com/solutions/case-studies/dow-jones/)
+- [Dropbox](https://www.dropbox.com/)
+- [Dropcam](https://aws.amazon.com/solutions/case-studies/dropcam/)
+- [Expedia](https://aws.amazon.com/solutions/case-studies/expedia/)
+- [Foursquare](https://aws.amazon.com/solutions/case-studies/foursquare/)
+- [IMDb](https://aws.amazon.com/solutions/case-studies/imdb/)
+- [Instrumental](https://instrumentalapp.com/blog/aws-kinesis/)
+- [Intuit](https://aws.amazon.com/solutions/case-studies/soasta-intuit/)
+- [Johnson & Johnson](https://aws.amazon.com/solutions/case-studies/johnson-and-johnson/)
+- [Lionsgate](https://aws.amazon.com/solutions/case-studies/lionsgate/)
+- [mlbam](https://aws.amazon.com/solutions/case-studies/major-league-baseball-mlbam/)
+- [NASA](https://aws.amazon.com/solutions/case-studies/nasa-jpl-curiosity/)
+- [Netflix](https://aws.amazon.com/solutions/case-studies/netflix/)
+- [Nike](https://web.archive.org/web/20150910200649/http://aws.amazon.com/solutions/case-studies/nike/)
+- [Nokia](https://web.archive.org/web/20161210062336/https://aws.amazon.com/solutions/case-studies/nokia/)
+- [PBS](https://aws.amazon.com/solutions/case-studies/pbs/)
+- [Pfizer](https://web.archive.org/web/20161210034734/https://aws.amazon.com/solutions/case-studies/pfizer/)
+- [Philips](https://aws.amazon.com/solutions/case-studies/philips/)
+- [Reddit](https://web.archive.org/web/20150905070945/https://aws.amazon.com/solutions/case-studies/reddit/)
+- [Samsung](https://aws.amazon.com/solutions/case-studies/samsung/)
+- [Siemens](https://aws.amazon.com/solutions/case-studies/siemens/)
+- [Slack](https://aws.amazon.com/solutions/case-studies/slack/)
+- [Spotify](https://web.archive.org/web/20180608043124/https://aws.amazon.com/solutions/case-studies/spotify/)
+- [Swiftkey](https://web.archive.org/web/20160410051253/https://aws.amazon.com/solutions/case-studies/swiftkey/)
+- [The Weather Company](https://aws.amazon.com/solutions/case-studies/the-weather-company/)
+- [Ticketmaster](https://aws.amazon.com/solutions/case-studies/ticketmaster/)
+- [Time Inc](https://aws.amazon.com/solutions/case-studies/time-inc/)
+- [Twilio](https://aws.amazon.com/solutions/case-studies/twilio/)
+- [U.S. Department of State](https://aws.amazon.com/solutions/case-studies/exchangesconnect/)
+- [Ubisoft](https://aws.amazon.com/solutions/case-studies/ubisoft/)
+- [Yelp](https://aws.amazon.com/solutions/case-studies/yelp-docker/)
+- [Zillow](https://aws.amazon.com/solutions/case-studies/zillow/)
 
 ## Social
 
-*Blogs, discussion groups, conferences, and social media.*
+_Blogs, discussion groups, conferences, and social media._
 
 <br/>
 <p align="center">
@@ -1213,123 +1215,123 @@ Community Guides:
 
 AWS Blogs:
 
-* [Official Blog](https://aws.amazon.com/blogs/aws/)
-    * [Brasil](https://aws.amazon.com/pt/blogs/aws-brasil/)
-    * [China](https://aws.amazon.com/cn/blogs/china/)
-    * [Germany](https://aws.amazon.com/de/blogs/germany/)
-    * [Japan](https://aws.amazon.com/jp/blogs/news/)
-    * [Korea](http://aws.amazon.com/ko/blogs/korea/)
-* [Application Management](http://blogs.aws.amazon.com/application-management)
-* [Architecture](https://www.awsarchitectureblog.com/)
-* [Big Data](https://blogs.aws.amazon.com/bigdata/)
-* [Compute](https://aws.amazon.com/blogs/compute/)
-* [Mobile](https://aws.amazon.com/blogs/mobile/)
-* [Messaging](https://aws.amazon.com/blogs/messaging-and-targeting/)
-* [Java](https://aws.amazon.com/blogs/developer/category/programing-language/java/)
-* [PHP](https://aws.amazon.com/blogs/developer/category/programing-language/php/)
-* [Ruby](https://aws.amazon.com/blogs/developer/category/programing-language/ruby/)
-* [.NET](https://aws.amazon.com/blogs/developer/category/programing-language/dot-net/)
-* [Security](https://aws.amazon.com/blogs/security/)
-* [Startup](https://medium.com/aws-activate-startup-blog)
-* [Partner Network](https://aws.amazon.com/blogs/apn/)
-* [SAP](https://aws.amazon.com/blogs/awsforsap/)
+- [Official Blog](https://aws.amazon.com/blogs/aws/)
+  - [Brasil](https://aws.amazon.com/pt/blogs/aws-brasil/)
+  - [China](https://aws.amazon.com/cn/blogs/china/)
+  - [Germany](https://aws.amazon.com/de/blogs/germany/)
+  - [Japan](https://aws.amazon.com/jp/blogs/news/)
+  - [Korea](http://aws.amazon.com/ko/blogs/korea/)
+- [Application Management](http://blogs.aws.amazon.com/application-management)
+- [Architecture](https://www.awsarchitectureblog.com/)
+- [Big Data](https://blogs.aws.amazon.com/bigdata/)
+- [Compute](https://aws.amazon.com/blogs/compute/)
+- [Mobile](https://aws.amazon.com/blogs/mobile/)
+- [Messaging](https://aws.amazon.com/blogs/messaging-and-targeting/)
+- [Java](https://aws.amazon.com/blogs/developer/category/programing-language/java/)
+- [PHP](https://aws.amazon.com/blogs/developer/category/programing-language/php/)
+- [Ruby](https://aws.amazon.com/blogs/developer/category/programing-language/ruby/)
+- [.NET](https://aws.amazon.com/blogs/developer/category/programing-language/dot-net/)
+- [Security](https://aws.amazon.com/blogs/security/)
+- [Startup](https://medium.com/aws-activate-startup-blog)
+- [Partner Network](https://aws.amazon.com/blogs/apn/)
+- [SAP](https://aws.amazon.com/blogs/awsforsap/)
 
 Community Blogs:
 
-* [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels, AWS CTO.
-* [Things I Like...](http://jeff-barr.com/) - Jeff Barr, AWS Chief Evangelist.
-* [Netflix Tech Blog](http://techblog.netflix.com/)
-* [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-* [AWS Geek](https://www.awsgeek.com/)
+- [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels, AWS CTO.
+- [Things I Like...](http://jeff-barr.com/) - Jeff Barr, AWS Chief Evangelist.
+- [Netflix Tech Blog](http://techblog.netflix.com/)
+- [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+- [AWS Geek](https://www.awsgeek.com/)
 
 ### Twitter Influencers
 
 AWS Tweeps:
 
-* [@awscloud](https://twitter.com/awscloud) - Official Twitter feed.
-* [@AWS_Partners](https://twitter.com/AWS_Partners)
-* [@AWSIdentity](https://twitter.com/AWSIdentity)
-* [@AWSMarketplace](https://twitter.com/AWSMarketplace)
-* [@AWSreInvent](https://twitter.com/AWSreInvent) - Official Twitter account for re:Invent.
-* [@AWSStartups](https://twitter.com/AWSStartups)
-* [@ajassy](https://twitter.com/ajassy) - Andy Jassy: Senior Vice-President.
-* [@Ianmmmm](https://twitter.com/Ianmmmm) - Ian Massingham - Technical Evangelist.
-* [@jeffbarr](https://twitter.com/jeffbarr) - Jeff Barr: Chief Evangelist.
-* [@mndoci](https://twitter.com/mndoci) - Deepak Singh: GM EC2.
-* [@mza](https://twitter.com/mza) - Matt Wood: Product Strategy.
-* [@Werner](https://twitter.com/Werner) - Werner Vogels: CTO.
-* [Community heroes, Evangelists, etc](https://twitter.com/awscloud/lists)
+- [@awscloud](https://twitter.com/awscloud) - Official Twitter feed.
+- [@AWS_Partners](https://twitter.com/AWS_Partners)
+- [@AWSIdentity](https://twitter.com/AWSIdentity)
+- [@AWSMarketplace](https://twitter.com/AWSMarketplace)
+- [@AWSreInvent](https://twitter.com/AWSreInvent) - Official Twitter account for re:Invent.
+- [@AWSStartups](https://twitter.com/AWSStartups)
+- [@ajassy](https://twitter.com/ajassy) - Andy Jassy: Senior Vice-President.
+- [@Ianmmmm](https://twitter.com/Ianmmmm) - Ian Massingham - Technical Evangelist.
+- [@jeffbarr](https://twitter.com/jeffbarr) - Jeff Barr: Chief Evangelist.
+- [@mndoci](https://twitter.com/mndoci) - Deepak Singh: GM EC2.
+- [@mza](https://twitter.com/mza) - Matt Wood: Product Strategy.
+- [@Werner](https://twitter.com/Werner) - Werner Vogels: CTO.
+- [Community heroes, Evangelists, etc](https://twitter.com/awscloud/lists)
 
 Community Tweeps:
 
-* [@kennwhite](https://twitter.com/kennwhite)
-* [@esh](https://twitter.com/esh)
-* [@garnaat](https://twitter.com/garnaat)
-* [@quinnypig](https://twitter.com/quinnypig)
-* [@awsgeek](https://twitter.com/awsgeek)
+- [@kennwhite](https://twitter.com/kennwhite)
+- [@esh](https://twitter.com/esh)
+- [@garnaat](https://twitter.com/garnaat)
+- [@quinnypig](https://twitter.com/quinnypig)
+- [@awsgeek](https://twitter.com/awsgeek)
 
 ### Facebook Pages
 
 AWS Pages:
 
-* [amazonwebservices](https://www.facebook.com/amazonwebservices) - Official Facebook page.
-* [awsreinvent](https://www.facebook.com/awsreinvent) - Official Facebook page for re:Invent.
+- [amazonwebservices](https://www.facebook.com/amazonwebservices) - Official Facebook page.
+- [awsreinvent](https://www.facebook.com/awsreinvent) - Official Facebook page for re:Invent.
 
 Community Pages:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### YouTube Channels
 
 AWS Channels:
 
-* [AmazonWebServices](https://www.youtube.com/user/AmazonWebServices)
-* [AWSDeutsch](https://www.youtube.com/user/AWSAktuell)
-* [AWSJapan](https://www.youtube.com/user/AmazonWebServicesJP)
-* [AWSKorea](https://www.youtube.com/user/AWSKorea)
-* [AWSLatinAmerica](https://www.youtube.com/channel/UCvaUAVzIIGsRNlUDWkQFCeA)
-* [AWSTutorialSeries](https://www.youtube.com/user/awstutorialseries)
-* [AWSWebinars](https://www.youtube.com/user/AWSwebinars)
+- [AmazonWebServices](https://www.youtube.com/user/AmazonWebServices)
+- [AWSDeutsch](https://www.youtube.com/user/AWSAktuell)
+- [AWSJapan](https://www.youtube.com/user/AmazonWebServicesJP)
+- [AWSKorea](https://www.youtube.com/user/AWSKorea)
+- [AWSLatinAmerica](https://www.youtube.com/channel/UCvaUAVzIIGsRNlUDWkQFCeA)
+- [AWSTutorialSeries](https://www.youtube.com/user/awstutorialseries)
+- [AWSWebinars](https://www.youtube.com/user/AWSwebinars)
 
 Community Channels:
 
-* [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
-* [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
-* [Linux Academy](https://www.youtube.com/user/pineheadtv/playlists)
+- [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
+- [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
+- [Linux Academy](https://www.youtube.com/user/pineheadtv/playlists)
 
 ### LinkedIn Groups
 
 AWS Page:
 
-* [Amazon Web Services](https://www.linkedin.com/company/amazon-web-services)
+- [Amazon Web Services](https://www.linkedin.com/company/amazon-web-services)
 
 Community Groups:
 
-* [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
-* [Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts](https://www.linkedin.com/grps?gid=3748455)
-* [Amazon Web Services (AWS) for Business](https://www.linkedin.com/grps?gid=5122002)
-* [Amazon Web Services Architects](https://www.linkedin.com/grps?gid=4233997)
+- [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
+- [Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts](https://www.linkedin.com/grps?gid=3748455)
+- [Amazon Web Services (AWS) for Business](https://www.linkedin.com/grps?gid=5122002)
+- [Amazon Web Services Architects](https://www.linkedin.com/grps?gid=4233997)
 
 ### Subreddits
 
-* [/r/aws/](https://www.reddit.com/r/aws/)
-* [/r/AWS_cloud/](https://www.reddit.com/r/AWS_cloud/)
+- [/r/aws/](https://www.reddit.com/r/aws/)
+- [/r/AWS_cloud/](https://www.reddit.com/r/AWS_cloud/)
 
 ### Conferences
 
 AWS Conferences:
 
-* [re:Invent](https://reinvent.awsevents.com/) - Annual user conference. The event features keynote announcements, training and certification opportunities, over 250 technical sessions, a partner expo, after hours activities, and more.
-* [Summits](https://aws.amazon.com/summits/) - Global one-day events that are designed to educate new customers about the AWS platform and offer existing customers deep technical content to be more successful with AWS.
-* [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) - Global one-day events are delivered by AWS Education's technical instructors and are ideal for IT pros, developers and technical managers who would like to learn about how to get started in the AWS Cloud.
+- [re:Invent](https://reinvent.awsevents.com/) - Annual user conference. The event features keynote announcements, training and certification opportunities, over 250 technical sessions, a partner expo, after hours activities, and more.
+- [Summits](https://aws.amazon.com/summits/) - Global one-day events that are designed to educate new customers about the AWS platform and offer existing customers deep technical content to be more successful with AWS.
+- [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) - Global one-day events are delivered by AWS Education's technical instructors and are ideal for IT pros, developers and technical managers who would like to learn about how to get started in the AWS Cloud.
 
 Community Conferences:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+- [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ## Latest KPIs and Stats
 
-*Latest key performance indicators and other interesting stats.*
+_Latest key performance indicators and other interesting stats._
 
 <br/>
 <p align="center">
@@ -1337,255 +1339,255 @@ Community Conferences:
 </p>
 <br/>
 
-* Over 1 million customers active in past 30 days.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
-* $7B+ annual revenue run-rate business.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
-    * 81% year over year revenue growth.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
-* EC2 usage up 95% year over year.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
-* S3 data transfer up 120% year over year.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
-    * S3 holds trillions of objects and regularly peaks at 1.5 million requests per second.<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-* Database services usage up 127% year over year.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
-    * $1B annual revenue run-rate business.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
-* 2 million new EBS volumes created per day.<sup>[4](https://www.youtube.com/watch?v=OuyUbvtgfDk)</sup>
-* Customers have launched more than 15 million Hadoop clusters.<sup>[3](http://www.forbes.com/sites/benkepes/2014/11/25/scale-beyond-comprehension-some-aws-numbers/)</sup>
-* 102Tbps network capacity into a data center.<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-* 500+ major new features and services launched since 2014.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
-* All 14 other cloud providers combined have 1/5th the aggregate capacity of AWS.<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-* Every day, AWS adds enough new server capacity to support all of Amazon's global infrastructure when it was a $7B annual revenue enterprise (in 2004).<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+- Over 1 million customers active in past 30 days.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+- $7B+ annual revenue run-rate business.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+  - 81% year over year revenue growth.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+- EC2 usage up 95% year over year.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+- S3 data transfer up 120% year over year.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+  - S3 holds trillions of objects and regularly peaks at 1.5 million requests per second.<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+- Database services usage up 127% year over year.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+  - $1B annual revenue run-rate business.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+- 2 million new EBS volumes created per day.<sup>[4](https://www.youtube.com/watch?v=OuyUbvtgfDk)</sup>
+- Customers have launched more than 15 million Hadoop clusters.<sup>[3](http://www.forbes.com/sites/benkepes/2014/11/25/scale-beyond-comprehension-some-aws-numbers/)</sup>
+- 102Tbps network capacity into a data center.<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+- 500+ major new features and services launched since 2014.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+- All 14 other cloud providers combined have 1/5th the aggregate capacity of AWS.<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+- Every day, AWS adds enough new server capacity to support all of Amazon's global infrastructure when it was a $7B annual revenue enterprise (in 2004).<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 
-*Appendix of official services, grouped by service category.*
+_Appendix of official services, grouped by service category._
 
 ### Services in Plain English
 
-* [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - Entertaining and educational, a community contribution.
+- [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - Entertaining and educational, a community contribution.
 
 ### Compute Services
 
-* [App Runner](https://aws.amazon.com/apprunner/) - Build and run containerized web applications at scale.
-* [Auto Scaling](https://aws.amazon.com/autoscaling/) - Launches or terminates EC2 instances based on policies, schedules, and health checks.
-* [Batch](https://aws.amazon.com/batch/) - Run batch jobs at scale.
-* [EC2 Image Builder](https://aws.amazon.com/image-builder/) - Build and maintain secure AMIs and container images.
-* [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Provides quick deployment and management of applications in the cloud.
-* [Elastic Compute Cloud (EC2)](https://aws.amazon.com/ec2/) - Provides scalable virtual private servers.
-* [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
-* [Lambda](https://aws.amazon.com/lambda/) - Runs code in response to events and automatically manages compute resources.
-* [Lightsail](https://aws.amazon.com/lightsail/) - Launch and manage simple virtual private servers.
-* [Outposts](https://aws.amazon.com/outposts/) - Run AWS infrastructure on-premises for hybrid deployments.
-* [Wavelength](https://aws.amazon.com/wavelength/) - Deliver ultra-low latency applications for 5G devices.
+- [App Runner](https://aws.amazon.com/apprunner/) - Build and run containerized web applications at scale.
+- [Auto Scaling](https://aws.amazon.com/autoscaling/) - Launches or terminates EC2 instances based on policies, schedules, and health checks.
+- [Batch](https://aws.amazon.com/batch/) - Run batch jobs at scale.
+- [EC2 Image Builder](https://aws.amazon.com/image-builder/) - Build and maintain secure AMIs and container images.
+- [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Provides quick deployment and management of applications in the cloud.
+- [Elastic Compute Cloud (EC2)](https://aws.amazon.com/ec2/) - Provides scalable virtual private servers.
+- [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
+- [Lambda](https://aws.amazon.com/lambda/) - Runs code in response to events and automatically manages compute resources.
+- [Lightsail](https://aws.amazon.com/lightsail/) - Launch and manage simple virtual private servers.
+- [Outposts](https://aws.amazon.com/outposts/) - Run AWS infrastructure on-premises for hybrid deployments.
+- [Wavelength](https://aws.amazon.com/wavelength/) - Deliver ultra-low latency applications for 5G devices.
 
 ### Containers
 
-* [App Runner](https://aws.amazon.com/apprunner/) - Build and run containerized web applications at scale.
-* [Elastic Container Registry (ECR)](https://aws.amazon.com/ecr/) - Fully managed Docker container registry.
-* [Elastic Container Service (ECS)](https://aws.amazon.com/ecs/) - Run containers on managed EC2 or Fargate.
-* [Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/) - Managed Kubernetes service.
-* [Fargate](https://aws.amazon.com/fargate/) - Serverless compute engine for containers.
-* [AWS Copilot](https://aws.amazon.com/containers/copilot/) - CLI for containerized application deployment on ECS and Fargate.
+- [App Runner](https://aws.amazon.com/apprunner/) - Build and run containerized web applications at scale.
+- [Elastic Container Registry (ECR)](https://aws.amazon.com/ecr/) - Fully managed Docker container registry.
+- [Elastic Container Service (ECS)](https://aws.amazon.com/ecs/) - Run containers on managed EC2 or Fargate.
+- [Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/) - Managed Kubernetes service.
+- [Fargate](https://aws.amazon.com/fargate/) - Serverless compute engine for containers.
+- [AWS Copilot](https://aws.amazon.com/containers/copilot/) - CLI for containerized application deployment on ECS and Fargate.
 
 ### Networking Services
 
-* [App Mesh](https://aws.amazon.com/app-mesh/) - Application-level networking for microservices.
-* [Cloud Map](https://aws.amazon.com/cloud-map/) - Service discovery for cloud resources.
-* [Direct Connect](https://aws.amazon.com/directconnect/) - Provides dedicated connections to AWS for faster and cheaper data throughput.
-* [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
-* [Global Accelerator](https://aws.amazon.com/global-accelerator/) - Improve global application availability and performance.
-* [PrivateLink](https://aws.amazon.com/privatelink/) - Securely access services over private connections.
-* [Route 53](https://aws.amazon.com/route53/) - Provides a highly available and scalable Domain Name System (DNS) web service.
-* [Transit Gateway](https://aws.amazon.com/transit-gateway/) - Connect VPCs and on-premises networks.
-* [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
+- [App Mesh](https://aws.amazon.com/app-mesh/) - Application-level networking for microservices.
+- [Cloud Map](https://aws.amazon.com/cloud-map/) - Service discovery for cloud resources.
+- [Direct Connect](https://aws.amazon.com/directconnect/) - Provides dedicated connections to AWS for faster and cheaper data throughput.
+- [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
+- [Global Accelerator](https://aws.amazon.com/global-accelerator/) - Improve global application availability and performance.
+- [PrivateLink](https://aws.amazon.com/privatelink/) - Securely access services over private connections.
+- [Route 53](https://aws.amazon.com/route53/) - Provides a highly available and scalable Domain Name System (DNS) web service.
+- [Transit Gateway](https://aws.amazon.com/transit-gateway/) - Connect VPCs and on-premises networks.
+- [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
 
 ### Enterprise Applications
 
-* [AppStream 2.0](https://aws.amazon.com/appstream2/) - Stream desktop applications to any device.
-* [WorkDocs](https://aws.amazon.com/workdocs/) - Provides a fully managed, secure enterprise storage and sharing service.
-* [WorkMail](https://aws.amazon.com/workmail/) - Provides managed email and calendaring service.
-* [WorkSpaces](https://aws.amazon.com/workspaces/) - Provides a cloud-based desktop experience to end-users.
+- [AppStream 2.0](https://aws.amazon.com/appstream2/) - Stream desktop applications to any device.
+- [WorkDocs](https://aws.amazon.com/workdocs/) - Provides a fully managed, secure enterprise storage and sharing service.
+- [WorkMail](https://aws.amazon.com/workmail/) - Provides managed email and calendaring service.
+- [WorkSpaces](https://aws.amazon.com/workspaces/) - Provides a cloud-based desktop experience to end-users.
 
 ### Analytics Services
 
-* [Athena](https://aws.amazon.com/athena/) - Query data on S3 instantly.
-* [Clean Rooms](https://aws.amazon.com/clean-rooms/) - Collaborate on data without sharing raw datasets.
-* [Data Exchange](https://aws.amazon.com/data-exchange/) - Find and subscribe to third-party data in the cloud.
-* [Data Pipeline](https://aws.amazon.com/datapipeline/) - Provides workload management by processing and moving data between services.
-* [Elastic MapReduce (EMR)](https://aws.amazon.com/emr/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
-* [Glue](https://aws.amazon.com/glue/) - Prepare and load data to data stores.
-* [Kinesis](https://aws.amazon.com/kinesis/) - Provides real-time data processing over large, distributed data streams.
-* [Kinesis Data Analytics](https://aws.amazon.com/kinesis/data-analytics/) - Write standard SQL queries on streaming data.
-* [Kinesis Data Firehose](https://aws.amazon.com/kinesis/data-firehose/) - Captures and automatically loads streaming data into S3 and Redshift.
-* [Lake Formation](https://aws.amazon.com/lake-formation/) - Build secure data lakes in days.
-* [Managed Streaming for Apache Kafka (MSK)](https://aws.amazon.com/msk/) - Fully managed Apache Kafka service.
-* [OpenSearch Service](https://aws.amazon.com/opensearch-service/) - Managed OpenSearch for search and analytics workloads.
-* [QuickSight](https://aws.amazon.com/quicksight/) - Provides cloud-powered business intelligence.
-* [Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
+- [Athena](https://aws.amazon.com/athena/) - Query data on S3 instantly.
+- [Clean Rooms](https://aws.amazon.com/clean-rooms/) - Collaborate on data without sharing raw datasets.
+- [Data Exchange](https://aws.amazon.com/data-exchange/) - Find and subscribe to third-party data in the cloud.
+- [Data Pipeline](https://aws.amazon.com/datapipeline/) - Provides workload management by processing and moving data between services.
+- [Elastic MapReduce (EMR)](https://aws.amazon.com/emr/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
+- [Glue](https://aws.amazon.com/glue/) - Prepare and load data to data stores.
+- [Kinesis](https://aws.amazon.com/kinesis/) - Provides real-time data processing over large, distributed data streams.
+- [Kinesis Data Analytics](https://aws.amazon.com/kinesis/data-analytics/) - Write standard SQL queries on streaming data.
+- [Kinesis Data Firehose](https://aws.amazon.com/kinesis/data-firehose/) - Captures and automatically loads streaming data into S3 and Redshift.
+- [Lake Formation](https://aws.amazon.com/lake-formation/) - Build secure data lakes in days.
+- [Managed Streaming for Apache Kafka (MSK)](https://aws.amazon.com/msk/) - Fully managed Apache Kafka service.
+- [OpenSearch Service](https://aws.amazon.com/opensearch-service/) - Managed OpenSearch for search and analytics workloads.
+- [QuickSight](https://aws.amazon.com/quicksight/) - Provides cloud-powered business intelligence.
+- [Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
 
 ### Machine Learning
 
-* [Amazon Q](https://aws.amazon.com/q/) - Generative AI assistant for business and developers.
-* [Bedrock](https://aws.amazon.com/bedrock/) - Build generative AI applications with foundation models.
-* [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions.
-* [Comprehend](https://aws.amazon.com/comprehend/) - Natural language processing service.
-* [Forecast](https://aws.amazon.com/forecast/) - Time-series forecasting service.
-* [Kendra](https://aws.amazon.com/kendra/) - Intelligent enterprise search service.
-* [Lex](https://aws.amazon.com/lex/) - Build conversational interfaces through voice or text.
-* [Personalize](https://aws.amazon.com/personalize/) - Real-time personalization and recommendations.
-* [Polly](https://aws.amazon.com/polly/) - Turn text into lifelike speech.
-* [Rekognition](https://aws.amazon.com/rekognition/) - Deep learning-based image and video analysis.
-* [SageMaker](https://aws.amazon.com/sagemaker/) - Build, train, and deploy machine learning models.
-* [Textract](https://aws.amazon.com/textract/) - Extract text and data from documents.
-* [Transcribe](https://aws.amazon.com/transcribe/) - Automatic speech recognition service.
-* [Translate](https://aws.amazon.com/translate/) - Neural machine translation service.
+- [Amazon Q](https://aws.amazon.com/q/) - Generative AI assistant for business and developers.
+- [Bedrock](https://aws.amazon.com/bedrock/) - Build generative AI applications with foundation models.
+- [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions.
+- [Comprehend](https://aws.amazon.com/comprehend/) - Natural language processing service.
+- [Forecast](https://aws.amazon.com/forecast/) - Time-series forecasting service.
+- [Kendra](https://aws.amazon.com/kendra/) - Intelligent enterprise search service.
+- [Lex](https://aws.amazon.com/lex/) - Build conversational interfaces through voice or text.
+- [Personalize](https://aws.amazon.com/personalize/) - Real-time personalization and recommendations.
+- [Polly](https://aws.amazon.com/polly/) - Turn text into lifelike speech.
+- [Rekognition](https://aws.amazon.com/rekognition/) - Deep learning-based image and video analysis.
+- [SageMaker](https://aws.amazon.com/sagemaker/) - Build, train, and deploy machine learning models.
+- [Textract](https://aws.amazon.com/textract/) - Extract text and data from documents.
+- [Transcribe](https://aws.amazon.com/transcribe/) - Automatic speech recognition service.
+- [Translate](https://aws.amazon.com/translate/) - Neural machine translation service.
 
 ### Management Tools
 
-* [CloudFormation](https://aws.amazon.com/cloudformation/) - Provides a file-based interface for provisioning other resources.
-* [CloudTrail](https://aws.amazon.com/cloudtrail/) - Provides logs of all activity.
-* [CloudWatch](https://aws.amazon.com/cloudwatch/) - Provides monitoring for AWS cloud resources and applications.
-* [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
-* [Compute Optimizer](https://aws.amazon.com/compute-optimizer/) - Recommend optimal AWS resources for workloads.
-* [Config](https://aws.amazon.com/config/) - Provides a detailed view of all resources.
-* [Control Tower](https://aws.amazon.com/controltower/) - Set up and govern a secure multi-account environment.
-* [License Manager](https://aws.amazon.com/license-manager/) - Manage software licenses across AWS and on-premises.
-* [Management Console (AWS Console)](https://aws.amazon.com/console/) - A web-based interface to manage all services.
-* [OpsWorks](https://aws.amazon.com/opsworks/) - Provides configuration of EC2 services using Chef.
-* [Organizations](https://aws.amazon.com/organizations/) - Centrally manage multiple AWS accounts.
-* [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) - Your personalized view of service health.
-* [Service Catalog](https://aws.amazon.com/servicecatalog/) - Allows IT administrators to create, manage, and distribute portfolios of approved products.
-* [Systems Manager](https://aws.amazon.com/systems-manager/) - Operational hub for AWS applications and resources.
-* [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/) - Optimize performance, security, and cost.
-* [Well-Architected Tool](https://aws.amazon.com/well-architected-tool/) - Review workloads against best practices.
+- [CloudFormation](https://aws.amazon.com/cloudformation/) - Provides a file-based interface for provisioning other resources.
+- [CloudTrail](https://aws.amazon.com/cloudtrail/) - Provides logs of all activity.
+- [CloudWatch](https://aws.amazon.com/cloudwatch/) - Provides monitoring for AWS cloud resources and applications.
+- [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
+- [Compute Optimizer](https://aws.amazon.com/compute-optimizer/) - Recommend optimal AWS resources for workloads.
+- [Config](https://aws.amazon.com/config/) - Provides a detailed view of all resources.
+- [Control Tower](https://aws.amazon.com/controltower/) - Set up and govern a secure multi-account environment.
+- [License Manager](https://aws.amazon.com/license-manager/) - Manage software licenses across AWS and on-premises.
+- [Management Console (AWS Console)](https://aws.amazon.com/console/) - A web-based interface to manage all services.
+- [OpsWorks](https://aws.amazon.com/opsworks/) - Provides configuration of EC2 services using Chef.
+- [Organizations](https://aws.amazon.com/organizations/) - Centrally manage multiple AWS accounts.
+- [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) - Your personalized view of service health.
+- [Service Catalog](https://aws.amazon.com/servicecatalog/) - Allows IT administrators to create, manage, and distribute portfolios of approved products.
+- [Systems Manager](https://aws.amazon.com/systems-manager/) - Operational hub for AWS applications and resources.
+- [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/) - Optimize performance, security, and cost.
+- [Well-Architected Tool](https://aws.amazon.com/well-architected-tool/) - Review workloads against best practices.
 
 ### Security and Identity Services
 
-* [Artifact](https://aws.amazon.com/artifact/) - Access AWS compliance reports on demand.
-* [Certificate Manager](https://aws.amazon.com/certificate-manager/) - Provision, manage, and deploy SSL/TLS certificates.
-* [CloudHSM](https://aws.amazon.com/cloudhsm/) - Dedicated Hardware Security Module appliances in the cloud.
-* [Detective](https://aws.amazon.com/detective/) - Analyze and investigate security issues.
-* [Directory Service](https://aws.amazon.com/directoryservice/) - Managed Microsoft Active Directory in the AWS Cloud.
-* [Firewall Manager](https://aws.amazon.com/firewall-manager/) - Centrally manage firewall rules across accounts.
-* [GuardDuty](https://aws.amazon.com/guardduty/) - Intelligent threat detection service.
-* [IAM Identity Center](https://aws.amazon.com/iam/identity-center/) - Manage workforce access to AWS accounts.
-* [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - The authentication infrastructure for AWS services.
-* [Inspector](https://aws.amazon.com/inspector/) - Automated security assessment service.
-* [Key Management Service (KMS)](https://aws.amazon.com/kms/) - Create and control encryption keys for your data.
-* [Macie](https://aws.amazon.com/macie/) - Discover and protect sensitive data.
-* [Secrets Manager](https://aws.amazon.com/secrets-manager/) - Rotate, manage, and retrieve secrets.
-* [Security Hub](https://aws.amazon.com/security-hub/) - Unified security and compliance center.
-* [Shield](https://aws.amazon.com/shield/) - Managed DDoS Protection.
-* [WAF](https://aws.amazon.com/waf/) - A web application firewall service.
+- [Artifact](https://aws.amazon.com/artifact/) - Access AWS compliance reports on demand.
+- [Certificate Manager](https://aws.amazon.com/certificate-manager/) - Provision, manage, and deploy SSL/TLS certificates.
+- [CloudHSM](https://aws.amazon.com/cloudhsm/) - Dedicated Hardware Security Module appliances in the cloud.
+- [Detective](https://aws.amazon.com/detective/) - Analyze and investigate security issues.
+- [Directory Service](https://aws.amazon.com/directoryservice/) - Managed Microsoft Active Directory in the AWS Cloud.
+- [Firewall Manager](https://aws.amazon.com/firewall-manager/) - Centrally manage firewall rules across accounts.
+- [GuardDuty](https://aws.amazon.com/guardduty/) - Intelligent threat detection service.
+- [IAM Identity Center](https://aws.amazon.com/iam/identity-center/) - Manage workforce access to AWS accounts.
+- [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - The authentication infrastructure for AWS services.
+- [Inspector](https://aws.amazon.com/inspector/) - Automated security assessment service.
+- [Key Management Service (KMS)](https://aws.amazon.com/kms/) - Create and control encryption keys for your data.
+- [Macie](https://aws.amazon.com/macie/) - Discover and protect sensitive data.
+- [Secrets Manager](https://aws.amazon.com/secrets-manager/) - Rotate, manage, and retrieve secrets.
+- [Security Hub](https://aws.amazon.com/security-hub/) - Unified security and compliance center.
+- [Shield](https://aws.amazon.com/shield/) - Managed DDoS Protection.
+- [WAF](https://aws.amazon.com/waf/) - A web application firewall service.
 
 ### Internet of Things
 
-* [FreeRTOS](https://aws.amazon.com/freertos/) - Real-time operating system for microcontrollers.
-* [IoT Analytics](https://aws.amazon.com/iot-analytics/) - Analytics for IoT devices.
-* [IoT Core](https://aws.amazon.com/iot-core/) - Secure communication between IoT devices and the AWS cloud.
-* [IoT Device Defender](https://aws.amazon.com/iot-device-defender/) - Security management for IoT devices.
-* [IoT Device Management](https://aws.amazon.com/iot-device-management/) - Onboard, organize, and manage IoT devices at scale.
-* [IoT Events](https://aws.amazon.com/iot-events/) - Detect and respond to IoT events.
-* [IoT Greengrass](https://aws.amazon.com/greengrass/) - Local compute and messaging for IoT devices.
-* [IoT SiteWise](https://aws.amazon.com/iot-sitewise/) - Collect and analyze industrial equipment data.
+- [FreeRTOS](https://aws.amazon.com/freertos/) - Real-time operating system for microcontrollers.
+- [IoT Analytics](https://aws.amazon.com/iot-analytics/) - Analytics for IoT devices.
+- [IoT Core](https://aws.amazon.com/iot-core/) - Secure communication between IoT devices and the AWS cloud.
+- [IoT Device Defender](https://aws.amazon.com/iot-device-defender/) - Security management for IoT devices.
+- [IoT Device Management](https://aws.amazon.com/iot-device-management/) - Onboard, organize, and manage IoT devices at scale.
+- [IoT Events](https://aws.amazon.com/iot-events/) - Detect and respond to IoT events.
+- [IoT Greengrass](https://aws.amazon.com/greengrass/) - Local compute and messaging for IoT devices.
+- [IoT SiteWise](https://aws.amazon.com/iot-sitewise/) - Collect and analyze industrial equipment data.
 
 ### Frontend Web & Mobile
 
-* [Amplify](https://aws.amazon.com/amplify/) - Build full-stack web and mobile applications.
-* [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining, and securing web service APIs.
-* [AppSync](https://aws.amazon.com/appsync/) - Build scalable GraphQL and Pub/Sub APIs.
-* [Cognito](https://aws.amazon.com/cognito/) - Provides user identity and data synchronization.
-* [Device Farm](https://aws.amazon.com/device-farm/) - App testing service for iOS, Android, and Fire OS apps on physical devices.
-* [Location Service](https://aws.amazon.com/location/) - Add location data to applications.
-* [Pinpoint](https://aws.amazon.com/pinpoint/) - Multichannel marketing communications.
-* [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol push messaging for applications.
+- [Amplify](https://aws.amazon.com/amplify/) - Build full-stack web and mobile applications.
+- [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining, and securing web service APIs.
+- [AppSync](https://aws.amazon.com/appsync/) - Build scalable GraphQL and Pub/Sub APIs.
+- [Cognito](https://aws.amazon.com/cognito/) - Provides user identity and data synchronization.
+- [Device Farm](https://aws.amazon.com/device-farm/) - App testing service for iOS, Android, and Fire OS apps on physical devices.
+- [Location Service](https://aws.amazon.com/location/) - Add location data to applications.
+- [Pinpoint](https://aws.amazon.com/pinpoint/) - Multichannel marketing communications.
+- [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol push messaging for applications.
 
 ### Storage and Content Delivery Services
 
-* [AWS Backup](https://aws.amazon.com/backup/) - Centralized backup across AWS services.
-* [CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (CDN) for distributing objects to locations near the requester.
-* [DataSync](https://aws.amazon.com/datasync/) - Automate data transfer between storage systems.
-* [Elastic Block Store (EBS)](https://aws.amazon.com/ebs/) - Provides persistent block-level storage volumes for EC2.
-* [Elastic File System (EFS)](https://aws.amazon.com/efs/) - A file storage service for EC2 instances.
-* [FSx](https://aws.amazon.com/fsx/) - Fully managed third-party file systems.
-* [S3 Glacier](https://aws.amazon.com/s3/storage-classes/glacier/) - Low-cost, long-term storage for archiving data.
-* [Simple Storage Service (S3)](https://aws.amazon.com/s3/) - Provides Web Service based storage.
-* [Snow Family](https://aws.amazon.com/snow/) - Physical devices for edge computing and data transfer.
-* [Storage Gateway](https://aws.amazon.com/storagegateway/) - An iSCSI block storage virtual appliance with cloud-based backup.
+- [AWS Backup](https://aws.amazon.com/backup/) - Centralized backup across AWS services.
+- [CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (CDN) for distributing objects to locations near the requester.
+- [DataSync](https://aws.amazon.com/datasync/) - Automate data transfer between storage systems.
+- [Elastic Block Store (EBS)](https://aws.amazon.com/ebs/) - Provides persistent block-level storage volumes for EC2.
+- [Elastic File System (EFS)](https://aws.amazon.com/efs/) - A file storage service for EC2 instances.
+- [FSx](https://aws.amazon.com/fsx/) - Fully managed third-party file systems.
+- [S3 Glacier](https://aws.amazon.com/s3/storage-classes/glacier/) - Low-cost, long-term storage for archiving data.
+- [Simple Storage Service (S3)](https://aws.amazon.com/s3/) - Provides Web Service based storage.
+- [Snow Family](https://aws.amazon.com/snow/) - Physical devices for edge computing and data transfer.
+- [Storage Gateway](https://aws.amazon.com/storagegateway/) - An iSCSI block storage virtual appliance with cloud-based backup.
 
 ### Databases
 
-* [Aurora](https://aws.amazon.com/rds/aurora/) - MySQL and PostgreSQL compatible relational database with improved performance.
-* [DocumentDB](https://aws.amazon.com/documentdb/) - MongoDB compatible document-oriented database.
-* [DynamoDB](https://aws.amazon.com/dynamodb/) - Provides a scalable, low-latency NoSQL online Database Service backed by SSDs.
-* [ElastiCache](https://aws.amazon.com/elasticache/) - Provides in-memory caching for web apps (Memcached, Redis).
-* [Keyspaces](https://aws.amazon.com/keyspaces/) - Managed Apache Cassandra-compatible database.
-* [MemoryDB](https://aws.amazon.com/memorydb/) - Redis-compatible in-memory database with durability.
-* [Neptune](https://aws.amazon.com/neptune/) - Managed graph database service.
-* [QLDB](https://aws.amazon.com/qldb/) - Fully managed ledger database.
-* [Relational Database Service (RDS)](https://aws.amazon.com/rds/) - Provides a scalable database server with MySQL, Oracle, SQL Server, PostgreSQL, and MariaDB support.
-* [Timestream](https://aws.amazon.com/timestream/) - Serverless time series database.
+- [Aurora](https://aws.amazon.com/rds/aurora/) - MySQL and PostgreSQL compatible relational database with improved performance.
+- [DocumentDB](https://aws.amazon.com/documentdb/) - MongoDB compatible document-oriented database.
+- [DynamoDB](https://aws.amazon.com/dynamodb/) - Provides a scalable, low-latency NoSQL online Database Service backed by SSDs.
+- [ElastiCache](https://aws.amazon.com/elasticache/) - Provides in-memory caching for web apps (Memcached, Redis).
+- [Keyspaces](https://aws.amazon.com/keyspaces/) - Managed Apache Cassandra-compatible database.
+- [MemoryDB](https://aws.amazon.com/memorydb/) - Redis-compatible in-memory database with durability.
+- [Neptune](https://aws.amazon.com/neptune/) - Managed graph database service.
+- [QLDB](https://aws.amazon.com/qldb/) - Fully managed ledger database.
+- [Relational Database Service (RDS)](https://aws.amazon.com/rds/) - Provides a scalable database server with MySQL, Oracle, SQL Server, PostgreSQL, and MariaDB support.
+- [Timestream](https://aws.amazon.com/timestream/) - Serverless time series database.
 
 ### Application Integration
 
-* [Amazon MQ](https://aws.amazon.com/amazon-mq/) - Managed message broker service for Apache ActiveMQ and RabbitMQ.
-* [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining, and securing web service APIs.
-* [AppFlow](https://aws.amazon.com/appflow/) - SaaS integration service.
-* [CloudSearch](https://aws.amazon.com/cloudsearch/) - Provides basic full-text search and indexing of textual content.
-* [EventBridge](https://aws.amazon.com/eventbridge/) - Serverless event bus service.
-* [Simple Email Service (SES)](https://aws.amazon.com/ses/) - Provides bulk and transactional email sending.
-* [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol push messaging for applications.
-* [Simple Queue Service (SQS)](https://aws.amazon.com/sqs/) - Provides a hosted message queue for web applications.
-* [Simple Workflow (SWF)](https://aws.amazon.com/swf/) - A workflow service for building scalable, resilient applications.
-* [Step Functions](https://aws.amazon.com/step-functions/) - Coordinate components of distributed applications.
+- [Amazon MQ](https://aws.amazon.com/amazon-mq/) - Managed message broker service for Apache ActiveMQ and RabbitMQ.
+- [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining, and securing web service APIs.
+- [AppFlow](https://aws.amazon.com/appflow/) - SaaS integration service.
+- [CloudSearch](https://aws.amazon.com/cloudsearch/) - Provides basic full-text search and indexing of textual content.
+- [EventBridge](https://aws.amazon.com/eventbridge/) - Serverless event bus service.
+- [Simple Email Service (SES)](https://aws.amazon.com/ses/) - Provides bulk and transactional email sending.
+- [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol push messaging for applications.
+- [Simple Queue Service (SQS)](https://aws.amazon.com/sqs/) - Provides a hosted message queue for web applications.
+- [Simple Workflow (SWF)](https://aws.amazon.com/swf/) - A workflow service for building scalable, resilient applications.
+- [Step Functions](https://aws.amazon.com/step-functions/) - Coordinate components of distributed applications.
 
 ### Developer Tools
 
-* [Cloud9](https://aws.amazon.com/cloud9/) - Cloud-based integrated development environment.
-* [CloudShell](https://aws.amazon.com/cloudshell/) - Browser-based shell for AWS.
-* [CodeArtifact](https://aws.amazon.com/codeartifact/) - Managed artifact repository.
-* [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
-* [CodeCommit](https://aws.amazon.com/codecommit/) - Hosted Git version control service.
-* [CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
-* [CodeGuru](https://aws.amazon.com/codeguru/) - Automated code reviews and performance recommendations.
-* [CodePipeline](https://aws.amazon.com/codepipeline/) - Continuous delivery service.
-* [Fault Injection Simulator](https://aws.amazon.com/fis/) - Run chaos engineering experiments.
-* [X-Ray](https://aws.amazon.com/xray/) - Analyze and debug your applications.
+- [Cloud9](https://aws.amazon.com/cloud9/) - Cloud-based integrated development environment.
+- [CloudShell](https://aws.amazon.com/cloudshell/) - Browser-based shell for AWS.
+- [CodeArtifact](https://aws.amazon.com/codeartifact/) - Managed artifact repository.
+- [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
+- [CodeCommit](https://aws.amazon.com/codecommit/) - Hosted Git version control service.
+- [CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
+- [CodeGuru](https://aws.amazon.com/codeguru/) - Automated code reviews and performance recommendations.
+- [CodePipeline](https://aws.amazon.com/codepipeline/) - Continuous delivery service.
+- [Fault Injection Simulator](https://aws.amazon.com/fis/) - Run chaos engineering experiments.
+- [X-Ray](https://aws.amazon.com/xray/) - Analyze and debug your applications.
 
 ### Media Services
 
-* [Elastic Transcoder](https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
-* [Interactive Video Service (IVS)](https://aws.amazon.com/ivs/) - Managed interactive live streaming.
-* [MediaConvert](https://aws.amazon.com/mediaconvert/) - File-based video transcoding.
-* [MediaLive](https://aws.amazon.com/medialive/) - Broadcast-grade live video processing.
-* [MediaPackage](https://aws.amazon.com/mediapackage/) - Video origination and packaging.
+- [Elastic Transcoder](https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
+- [Interactive Video Service (IVS)](https://aws.amazon.com/ivs/) - Managed interactive live streaming.
+- [MediaConvert](https://aws.amazon.com/mediaconvert/) - File-based video transcoding.
+- [MediaLive](https://aws.amazon.com/medialive/) - Broadcast-grade live video processing.
+- [MediaPackage](https://aws.amazon.com/mediapackage/) - Video origination and packaging.
 
 ### Migration & Transfer
 
-* [Application Discovery Service](https://aws.amazon.com/application-discovery/) - Discover on-premises applications for migration planning.
-* [Database Migration Service (DMS)](https://aws.amazon.com/dms/) - Migrate databases to AWS.
-* [Migration Hub](https://aws.amazon.com/migration-hub/) - Track application migrations.
-* [Schema Conversion Tool](https://aws.amazon.com/dms/schema-conversion-tool/) - Convert database schemas for migration.
-* [Server Migration Service](https://aws.amazon.com/server-migration-service/) - Migrate on-premises workloads to AWS.
-* [Transfer Family](https://aws.amazon.com/aws-transfer-family/) - Managed file transfers using SFTP, FTPS, and FTP.
+- [Application Discovery Service](https://aws.amazon.com/application-discovery/) - Discover on-premises applications for migration planning.
+- [Database Migration Service (DMS)](https://aws.amazon.com/dms/) - Migrate databases to AWS.
+- [Migration Hub](https://aws.amazon.com/migration-hub/) - Track application migrations.
+- [Schema Conversion Tool](https://aws.amazon.com/dms/schema-conversion-tool/) - Convert database schemas for migration.
+- [Server Migration Service](https://aws.amazon.com/server-migration-service/) - Migrate on-premises workloads to AWS.
+- [Transfer Family](https://aws.amazon.com/aws-transfer-family/) - Managed file transfers using SFTP, FTPS, and FTP.
 
 ### Customer Engagement
 
-* [Chime](https://aws.amazon.com/chime/) - Communications service for meetings and chat.
-* [Connect](https://aws.amazon.com/connect/) - Cloud-based contact center.
+- [Chime](https://aws.amazon.com/chime/) - Communications service for meetings and chat.
+- [Connect](https://aws.amazon.com/connect/) - Cloud-based contact center.
 
 ### Blockchain
 
-* [Managed Blockchain](https://aws.amazon.com/managed-blockchain/) - Create and manage blockchain networks.
+- [Managed Blockchain](https://aws.amazon.com/managed-blockchain/) - Create and manage blockchain networks.
 
 ### Quantum Computing
 
-* [Braket](https://aws.amazon.com/braket/) - Explore and design quantum algorithms.
+- [Braket](https://aws.amazon.com/braket/) - Explore and design quantum algorithms.
 
 ### Satellite
 
-* [Ground Station](https://aws.amazon.com/ground-station/) - Control satellites and process data.
+- [Ground Station](https://aws.amazon.com/ground-station/) - Control satellites and process data.
 
 ### Miscellaneous Services
 
-* [Mechanical Turk](https://www.mturk.com/mturk/welcome) - Manages small units of work distributed among many persons.
-* [Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
+- [Mechanical Turk](https://www.mturk.com/mturk/welcome) - Manages small units of work distributed among many persons.
+- [Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
 
 ## Credits
 
@@ -1603,7 +1605,7 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
 
 ## License
 
-*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
+_I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook)._
 
     Copyright 2017 Donne Martin
 
