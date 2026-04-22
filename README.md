@@ -1155,6 +1155,7 @@ Community Guides:
 
 * [Training and Certification](https://aws.amazon.com/training/)
 * [Webinars](https://aws.amazon.com/about-aws/events/)
+* [CloudNugget](https://cloudnugget.dev/) - Free Certified Developer Associate course
 
 ### Case Studies: Powered by AWS
 
