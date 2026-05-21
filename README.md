@@ -474,6 +474,7 @@ Community Repos:
 * [sparkleformation/sparkle_formation :fire::fire: :hourglass:](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
 * [Stelligent/cfn_nag :fire::fire::fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 * [Skyscanner/cfripper :fire::fire:](https://github.com/Skyscanner/cfripper) - CFRipper is a Library and CLI security analyzer for AWS CloudFormation templates
+* [pujaaan/simple-cdk](https://github.com/pujaaan/simple-cdk) - Convention-over-configuration layer on AWS CDK with folder-based scaffolding for Lambda, DynamoDB, AppSync, Cognito, and RDS.
 
 ### CloudSearch
 
