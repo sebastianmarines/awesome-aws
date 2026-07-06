@@ -483,6 +483,7 @@ Community Repos:
 * [Stelligent/cfn_nag :fire::fire::fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 * [Skyscanner/cfripper :fire::fire:](https://github.com/Skyscanner/cfripper) - CFRipper is a Library and CLI security analyzer for AWS CloudFormation templates
 * [pujaaan/simple-cdk](https://github.com/pujaaan/simple-cdk) - Convention-over-configuration layer on AWS CDK with folder-based scaffolding for Lambda, DynamoDB, AppSync, Cognito, and RDS.
+* [trupositive-ai/trupositive](https://github.com/trupositive-ai/trupositive) - Automatically tag AWS CloudFormation stacks with Git commit SHA, branch, and repository. Zero configuration.
 
 ### CloudSearch
 
