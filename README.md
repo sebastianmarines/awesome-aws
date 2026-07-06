@@ -801,8 +801,13 @@ Community Repos:
 
 AWS Repos:
 
+* [agent-toolkit-for-aws :fire::fire::fire::fire:](https://github.com/aws/agent-toolkit-for-aws) - MCP servers, skills, and plugins for AI agents building on AWS.
+* [agentcore-cli :fire::fire:](https://github.com/aws/agentcore-cli) - CLI for creating, developing, and deploying AI agents to Amazon Bedrock AgentCore.
+* [agentcore-samples :fire::fire::fire::fire::fire:](https://github.com/awslabs/agentcore-samples) - Samples and tutorials for Amazon Bedrock AgentCore.
+* [bedrock-agentcore-sdk-python :fire::fire::fire:](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for deploying AI agents to Amazon Bedrock AgentCore.
 * [deep-learning-containers](https://github.com/aws/deep-learning-containers) - Deep Learning Containers for training and inference with machine learning frameworks.
 * [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
+* [mcp :fire::fire::fire::fire::fire:](https://github.com/awslabs/mcp) - MCP servers for AWS documentation, infrastructure, and service workflows.
 
 Community Repos:
 
