@@ -1072,6 +1072,7 @@ Community Repos:
 * [dtan4/terraforming :fire::fire::fire::fire::fire: :zzz:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
 * [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - CLI tool for AWS account health checks, cost analysis, and detecting unused resources.
 * [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator. Drop-in replacement for development and testing.
+* [TocConsulting/awsmap](https://github.com/TocConsulting/awsmap) - Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions.
 * [segmentio/stack :fire::fire::fire::fire::fire: :hourglass:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
 * [GoogleCloudPlatform/terraformer :fire::fire::fire::fire::fire:](https://github.com/GoogleCloudPlatform/terraformer#use-with-aws) - A tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform). (Originally from Waze SRE team, but mostly cloud-agnostic)
 * [j2labs/microarmy  :zzz:](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
