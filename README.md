@@ -892,6 +892,7 @@ Community Repos:
 
 * [abhay-ramesh/pushduck](https://github.com/abhay-ramesh/pushduck) - Type-safe S3 file upload library for JavaScript/TypeScript with React hooks, presigned URLs, and edge runtime support.
 * [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
+* [mixpeek/awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - Comprehensive comparison of S3-compatible object storage providers with pricing, gotchas, and migration costs.
 * [bloomreach/s4cmd :fire::fire::fire::fire:](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files.
 * [CulturalMe/meteor-slingshot :fire::fire::fire: :hourglass:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
 * [danilop/yas3fs :fire::fire::fire: :zzz:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
