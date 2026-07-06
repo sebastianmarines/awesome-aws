@@ -996,6 +996,7 @@ Community Repos:
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire: :zzz:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 * [NixOS/nixops :fire::fire::fire::fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
 * [someengineering/resoto :fire::fire::fire::fire::fire:](https://github.com/someengineering/resoto) - Improve visibility, control, cost, and compliance in your cloud.
+* [realadeel/CloudVac](https://github.com/realadeel/CloudVac) - Scan, inspect, and clean up unused resources across 20 regions with cost estimation and dependency-aware deletion.
 
 ### Security
 
