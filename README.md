@@ -78,6 +78,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     - [Brainboard](#brainboard)
   - [Open Source Repos](#open-source-repos)
     - [API Gateway](#api-gateway)
+    - [Bedrock](#bedrock)
     - [CLI](#cli)
     - [CloudFormation](#cloudformation)
     - [CloudSearch](#cloudsearch)
@@ -427,6 +428,12 @@ Community Repos:
 
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
+### Bedrock
+
+Community Repos:
+
+* [outcomeops/context-engineering](https://github.com/outcomeops/context-engineering) - Reference implementation of context engineering using Bedrock, Claude, and Titan embeddings.
+
 ### CLI
 
 AWS Repos:
@@ -441,6 +448,7 @@ AWS Repos:
 Community Repos:
 
 * [achiku/jungle :fire::fire::fire: :zzz:](https://github.com/achiku/jungle) - Operations by EC2 and ELB cli should be simpler.
+* [localstack/awscli-local](https://github.com/localstack/awscli-local) - A thin wrapper around the AWS CLI for use with LocalStack.
 * [dbcli/athenacli :fire::fire:](https://github.com/dbcli/athenacli) - a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - A Supercharged AWS Command Line Interface.
 * [nessjs/ness :fire::fire::fire: :zzz:](https://github.com/nessjs/ness) - Deploy web sites to your AWS account effortlessly.
@@ -475,6 +483,7 @@ Community Repos:
 * [Stelligent/cfn_nag :fire::fire::fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 * [Skyscanner/cfripper :fire::fire:](https://github.com/Skyscanner/cfripper) - CFRipper is a Library and CLI security analyzer for AWS CloudFormation templates
 * [pujaaan/simple-cdk](https://github.com/pujaaan/simple-cdk) - Convention-over-configuration layer on AWS CDK with folder-based scaffolding for Lambda, DynamoDB, AppSync, Cognito, and RDS.
+* [trupositive-ai/trupositive](https://github.com/trupositive-ai/trupositive) - Automatically tag AWS CloudFormation stacks with Git commit SHA, branch, and repository. Zero configuration.
 
 ### CloudSearch
 
@@ -882,7 +891,9 @@ Community Repos:
 
 Community Repos:
 
+* [abhay-ramesh/pushduck](https://github.com/abhay-ramesh/pushduck) - Type-safe S3 file upload library for JavaScript/TypeScript with React hooks, presigned URLs, and edge runtime support.
 * [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
+* [mixpeek/awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - Comprehensive comparison of S3-compatible object storage providers with pricing, gotchas, and migration costs.
 * [bloomreach/s4cmd :fire::fire::fire::fire:](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files.
 * [CulturalMe/meteor-slingshot :fire::fire::fire: :hourglass:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
 * [danilop/yas3fs :fire::fire::fire: :zzz:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
@@ -985,6 +996,7 @@ Community Repos:
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire: :zzz:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 * [NixOS/nixops :fire::fire::fire::fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
 * [someengineering/resoto :fire::fire::fire::fire::fire:](https://github.com/someengineering/resoto) - Improve visibility, control, cost, and compliance in your cloud.
+* [realadeel/CloudVac](https://github.com/realadeel/CloudVac) - Scan, inspect, and clean up unused resources across 20 regions with cost estimation and dependency-aware deletion.
 
 ### Security
 
@@ -1011,6 +1023,7 @@ Community Repos:
 * [sebsto/AWSVPN :fire: :zzz:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 * [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
 * [bad-antics/nullsec-awsrecon](https://github.com/bad-antics/nullsec-awsrecon) - AWS security reconnaissance tool with IAM enumeration, S3 bucket analysis, and credential exposure detection.
+* [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Open-source security scanner with Terraform remediation and scan diff tracking.
 * [ttlequals0/autovpn :fire::fire::fire::fire::fire: :zzz:](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
 
 ### Accompanying Repos
@@ -1061,6 +1074,8 @@ Community Repos:
 * [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
 * [dtan4/terraforming :fire::fire::fire::fire::fire: :zzz:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
 * [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - CLI tool for AWS account health checks, cost analysis, and detecting unused resources.
+* [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator. Drop-in replacement for development and testing.
+* [TocConsulting/awsmap](https://github.com/TocConsulting/awsmap) - Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions.
 * [segmentio/stack :fire::fire::fire::fire::fire: :hourglass:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
 * [GoogleCloudPlatform/terraformer :fire::fire::fire::fire::fire:](https://github.com/GoogleCloudPlatform/terraformer#use-with-aws) - A tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform). (Originally from Waze SRE team, but mostly cloud-agnostic)
 * [j2labs/microarmy  :zzz:](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
