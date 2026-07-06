@@ -78,6 +78,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     - [Brainboard](#brainboard)
   - [Open Source Repos](#open-source-repos)
     - [API Gateway](#api-gateway)
+    - [Bedrock](#bedrock)
     - [CLI](#cli)
     - [CloudFormation](#cloudformation)
     - [CloudSearch](#cloudsearch)
@@ -426,6 +427,12 @@ AWS Repos:
 Community Repos:
 
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
+### Bedrock
+
+Community Repos:
+
+* [outcomeops/context-engineering](https://github.com/outcomeops/context-engineering) - Reference implementation of context engineering using Bedrock, Claude, and Titan embeddings.
 
 ### CLI
 
