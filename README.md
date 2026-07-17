@@ -430,6 +430,10 @@ Community Repos:
 
 ### Bedrock
 
+AWS Repos:
+
+* [loom :fire:](https://github.com/awslabs/loom) - Platform for building, deploying, and operating AI agents on Bedrock AgentCore Runtime and Strands Agents.
+
 Community Repos:
 
 * [outcomeops/context-engineering](https://github.com/outcomeops/context-engineering) - Reference implementation of context engineering using Bedrock, Claude, and Titan embeddings.
@@ -1065,6 +1069,8 @@ AWS Repos:
 
 Community Repos:
 
+* [aws-devtools-labs/aws-blocks :fire::fire:](https://github.com/aws-devtools-labs/aws-blocks) - TypeScript framework where each "Block" bundles app code, local mocks, and AWS infrastructure, running locally with no AWS account and deploying unchanged to Lambda, DynamoDB, and Aurora.
+* [aws-samples/sample-specship :fire:](https://github.com/aws-samples/sample-specship) - Spec-driven autonomous engineering workflow for AI coding agents, covering recon, planning, building, and validation with test-driven quality gates.
 * [bcoe/thumbd :fire::fire: :zzz:](https://github.com/bcoe/thumbd) - Node.js/ImageMagick-based image thumbnailing service.
 * [brexhq/substation :fire::fire:](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [cdkpatterns/serverless :fire::fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
@@ -1075,6 +1081,7 @@ Community Repos:
 * [dtan4/terraforming :fire::fire::fire::fire::fire: :zzz:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
 * [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - CLI tool for AWS account health checks, cost analysis, and detecting unused resources.
 * [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator. Drop-in replacement for development and testing.
+* [floci-io/floci :fire::fire::fire::fire::fire:](https://github.com/floci-io/floci) - Fast, free, open-source local AWS emulator with real Docker-backed execution across 68 services, built as a drop-in LocalStack replacement.
 * [TocConsulting/awsmap](https://github.com/TocConsulting/awsmap) - Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions.
 * [segmentio/stack :fire::fire::fire::fire::fire: :hourglass:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
 * [GoogleCloudPlatform/terraformer :fire::fire::fire::fire::fire:](https://github.com/GoogleCloudPlatform/terraformer#use-with-aws) - A tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform). (Originally from Waze SRE team, but mostly cloud-agnostic)
