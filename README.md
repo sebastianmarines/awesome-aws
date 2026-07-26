@@ -1074,6 +1074,7 @@ Community Repos:
 * [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
 * [dtan4/terraforming :fire::fire::fire::fire::fire: :zzz:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
 * [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - CLI tool for AWS account health checks, cost analysis, and detecting unused resources.
+* - [elleVas/cloudrift](https://github.com/elleVas/cloudrift) - Read-only CLI that scans AWS accounts for wasted resources and security misconfigurations (44 checks total), with CI/CD budget gates and MCP server support for AI agents.
 * [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator. Drop-in replacement for development and testing.
 * [TocConsulting/awsmap](https://github.com/TocConsulting/awsmap) - Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions.
 * [segmentio/stack :fire::fire::fire::fire::fire: :hourglass:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
