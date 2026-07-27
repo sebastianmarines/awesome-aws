@@ -815,12 +815,14 @@ AWS Repos:
 * [agentcore-samples :fire::fire::fire::fire::fire:](https://github.com/awslabs/agentcore-samples) - Samples and tutorials for Amazon Bedrock AgentCore.
 * [bedrock-agentcore-sdk-python :fire::fire::fire:](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for deploying AI agents to Amazon Bedrock AgentCore.
 * [deep-learning-containers](https://github.com/aws/deep-learning-containers) - Deep Learning Containers for training and inference with machine learning frameworks.
+* [loom :fire:](https://github.com/awslabs/loom) - Enterprise-grade platform for building, deploying, and governing AI agents on Bedrock AgentCore and Strands Agents.
 * [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 * [mcp :fire::fire::fire::fire::fire:](https://github.com/awslabs/mcp) - MCP servers for AWS documentation, infrastructure, and service workflows.
+* [unified-kg-rag-on-aws](https://github.com/awslabs/unified-kg-rag-on-aws) - Knowledge graph RAG framework unifying GraphRAG and LightRAG retrieval on Bedrock, Neptune, and OpenSearch.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [aws-bench/aws-bench](https://github.com/aws-bench/aws-bench) - Open-source benchmark measuring how accurately AI agents complete real-world cloud tasks.
 
 ### Marketplace
 
