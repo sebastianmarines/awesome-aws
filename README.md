@@ -813,14 +813,17 @@ AWS Repos:
 * [agent-toolkit-for-aws :fire::fire::fire::fire:](https://github.com/aws/agent-toolkit-for-aws) - MCP servers, skills, and plugins for AI agents building on AWS.
 * [agentcore-cli :fire::fire:](https://github.com/aws/agentcore-cli) - CLI for creating, developing, and deploying AI agents to Amazon Bedrock AgentCore.
 * [agentcore-samples :fire::fire::fire::fire::fire:](https://github.com/awslabs/agentcore-samples) - Samples and tutorials for Amazon Bedrock AgentCore.
+* [aiops-modules :fire:](https://github.com/awslabs/aiops-modules) - Reusable IaC modules for ML, foundation model, and GenAI operations.
 * [bedrock-agentcore-sdk-python :fire::fire::fire:](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for deploying AI agents to Amazon Bedrock AgentCore.
 * [deep-learning-containers](https://github.com/aws/deep-learning-containers) - Deep Learning Containers for training and inference with machine learning frameworks.
+* [loom :fire:](https://github.com/awslabs/loom/) - Platform for building and operating AI agents on Bedrock AgentCore Runtime and Strands Agents.
 * [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 * [mcp :fire::fire::fire::fire::fire:](https://github.com/awslabs/mcp) - MCP servers for AWS documentation, infrastructure, and service workflows.
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [aws-bench/aws-bench](https://github.com/aws-bench/aws-bench) - Benchmark for evaluating AI agents on real AWS tasks.
+* [strands-agents/harness-sdk :fire::fire::fire::fire::fire:](https://github.com/strands-agents/harness-sdk) - SDK for building model-driven AI agents.
 
 ### Marketplace
 
