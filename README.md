@@ -814,7 +814,9 @@ AWS Repos:
 * [agentcore-cli :fire::fire:](https://github.com/aws/agentcore-cli) - CLI for creating, developing, and deploying AI agents to Amazon Bedrock AgentCore.
 * [agentcore-samples :fire::fire::fire::fire::fire:](https://github.com/awslabs/agentcore-samples) - Samples and tutorials for Amazon Bedrock AgentCore.
 * [bedrock-agentcore-sdk-python :fire::fire::fire:](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for deploying AI agents to Amazon Bedrock AgentCore.
+* [cli-agent-orchestrator :fire::fire::fire:](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs like Claude Code, Kiro, and Codex, coordinated in isolated tmux sessions.
 * [deep-learning-containers](https://github.com/aws/deep-learning-containers) - Deep Learning Containers for training and inference with machine learning frameworks.
+* [loom :fire:](https://github.com/awslabs/loom) - Enterprise-grade platform for building, deploying, and governing AI agents on Amazon Bedrock AgentCore and Strands Agents.
 * [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 * [mcp :fire::fire::fire::fire::fire:](https://github.com/awslabs/mcp) - MCP servers for AWS documentation, infrastructure, and service workflows.
 
@@ -1005,6 +1007,7 @@ AWS Repos:
 * [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 Agent Compatibility Ccanner.
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - Token Vending Machine for Anonymous Registration.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - Token Vending Machine for Identity Registration.
+* [ferret-scan](https://github.com/awslabs/ferret-scan) - Offline CLI and Go library that detects PII, secrets, and credentials in files and streams, then redacts them format-preserving.
 * [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols.
 
 Community Repos:
