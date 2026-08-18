@@ -815,6 +815,8 @@ AWS Repos:
 * [agentcore-samples :fire::fire::fire::fire::fire:](https://github.com/awslabs/agentcore-samples) - Samples and tutorials for Amazon Bedrock AgentCore.
 * [bedrock-agentcore-sdk-python :fire::fire::fire:](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for deploying AI agents to Amazon Bedrock AgentCore.
 * [cli-agent-orchestrator :fire::fire::fire:](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs like Claude Code, Kiro, and Codex, coordinated in isolated tmux sessions.
+* [codeknit](https://github.com/awslabs/codeknit) - Static code structure extractor that turns a codebase into a compact, LLM-friendly graph for refactoring, duplicate detection, and architecture analysis across 12 languages.
+* [context-ontology-accelerator :fire::fire:](https://github.com/aws/context-ontology-accelerator) - Open-source semantic context layer combining knowledge graphs, ontologies, and rule-based systems so AI agents can retrieve, validate, and act on business context.
 * [deep-learning-containers](https://github.com/aws/deep-learning-containers) - Deep Learning Containers for training and inference with machine learning frameworks.
 * [loom :fire:](https://github.com/awslabs/loom) - Enterprise-grade platform for building, deploying, and governing AI agents on Amazon Bedrock AgentCore and Strands Agents.
 * [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
@@ -1061,6 +1063,7 @@ Community Repos:
 AWS Repos:
 
 * [amediamanager](https://github.com/awslabs/amediamanager) - Media manager.
+* [aurora-dsql-tools](https://github.com/awslabs/aurora-dsql-tools) - Developer tooling for Amazon Aurora DSQL, including a SQL linter, VS Code SQLTools driver, Flyway migration support, and a pg_dump/psql wire proxy.
 * [aws-hal-client-java](https://github.com/awslabs/aws-hal-client-java) - Java client for the Hypertext Application Language.
 * [aws-model-validators](https://github.com/awslabs/aws-model-validators) - Tools for validating the AWS service JSON model files.
 * [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) - Sample cross-platform video transcoder app.
