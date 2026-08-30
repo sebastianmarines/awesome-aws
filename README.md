@@ -457,6 +457,7 @@ Community Repos:
 * [Noovolari/leapp :fire::fire::fire::fire:](https://github.com/Noovolari/leapp) - Cross-platform App for securing AWS Credentials, based on Electron.
 * [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go.
 * [rocketsam](https://github.com/nadav96/rocketsam) - A CLI made to build and deploy microservices.
+* [dialohq/aws-google-oidc](https://github.com/dialohq/aws-google-oidc) - Turns Google service-account impersonation into temporary STS credentials through `credential_process`, with secure OS-keychain token caching.
 
 ### CloudFormation
 
