@@ -617,6 +617,7 @@ Community Repos:
 * [ballerina-aws-dynamodb :fire:](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodb) - The Ballerina AWS DynamoDB connector provides the capability to handle AWS DynamoDB related operations programmatically.
 * [ballerina-aws-dynamodb-streams](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodbstreams) - The Ballerina AWS DynamoDB Streams connector enables developers to interact with AWS DynamoDB Streams for real-time data processing.
 * [channl/dynamodb-lambda-autoscale :fire::fire: :zzz:](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
+* [dynotable/dynamodb-partiql-parser](https://github.com/dynotable/dynamodb-partiql-parser) - Zero-dependency PartiQL parser and linter that flags the constructs DynamoDB rejects before execution.
 * [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 * [sebdah/dynamic-dynamodb :fire::fire::fire: :zzz:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 * [typemon/dynamon](https://gitlab.com/monster-space-network/typemon/dynamon) - Highly abstracted document client and incredibly powerful expression builder.
