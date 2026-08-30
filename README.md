@@ -1012,6 +1012,7 @@ AWS Repos:
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - Token Vending Machine for Identity Registration.
 * [ferret-scan](https://github.com/awslabs/ferret-scan) - Offline CLI and Go library that detects PII, secrets, and credentials in files and streams, then redacts them format-preserving.
 * [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols.
+* [threat-designer :fire::fire:](https://github.com/awslabs/threat-designer) - GenAI application that automates and streamlines threat modeling for secure system design.
 
 Community Repos:
 
@@ -1063,11 +1064,14 @@ Community Repos:
 
 AWS Repos:
 
+* [agent-plugins :fire::fire::fire:](https://github.com/awslabs/agent-plugins) - Agent plugins that give AI coding agents like Claude Code and Cursor the skills to architect, deploy, and operate on AWS.
+* [aidlc-workflows :fire::fire::fire::fire::fire:](https://github.com/awslabs/aidlc-workflows) - Adaptive workflow steering rules that guide AI coding agents through a structured inception, construction, and operations development lifecycle.
 * [amediamanager](https://github.com/awslabs/amediamanager) - Media manager.
 * [aurora-dsql-tools](https://github.com/awslabs/aurora-dsql-tools) - Developer tooling for Amazon Aurora DSQL, including a SQL linter, VS Code SQLTools driver, Flyway migration support, and a pg_dump/psql wire proxy.
 * [aws-hal-client-java](https://github.com/awslabs/aws-hal-client-java) - Java client for the Hypertext Application Language.
 * [aws-model-validators](https://github.com/awslabs/aws-model-validators) - Tools for validating the AWS service JSON model files.
 * [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) - Sample cross-platform video transcoder app.
+* [dsql-migration-toolkit](https://github.com/awslabs/dsql-migration-toolkit) - Guided, web-based toolkit for migrating RDS or Aurora MySQL to Aurora DSQL, with optional AI-assisted schema conversion via Bedrock.
 * [simplebeerservice :fire::fire: :zzz:](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
 Community Repos:
