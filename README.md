@@ -469,6 +469,7 @@ AWS Repos:
 * [cfn-python-lint :fire::fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
 * [cfncluster-cookbook :fire:](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook.
 * [cfncluster :fire::fire::fire:](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
+* [nx-plugin-for-aws :fire:](https://github.com/awslabs/nx-plugin-for-aws) - Nx generators that scaffold full-stack AWS apps, pairing best-practice application code with the infrastructure to deploy it.
 
 Community Repos:
 
@@ -819,9 +820,12 @@ AWS Repos:
 * [codeknit](https://github.com/awslabs/codeknit) - Static code structure extractor that turns a codebase into a compact, LLM-friendly graph for refactoring, duplicate detection, and architecture analysis across 12 languages.
 * [context-ontology-accelerator :fire::fire:](https://github.com/aws/context-ontology-accelerator) - Open-source semantic context layer combining knowledge graphs, ontologies, and rule-based systems so AI agents can retrieve, validate, and act on business context.
 * [deep-learning-containers](https://github.com/aws/deep-learning-containers) - Deep Learning Containers for training and inference with machine learning frameworks.
+* [fullstack-solution-template-for-agentcore :fire::fire::fire:](https://github.com/awslabs/fullstack-solution-template-for-agentcore) - Starter template that deploys a secured React frontend connected to an Amazon Bedrock AgentCore backend using CDK.
+* [graphrag-toolkit :fire::fire:](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced generative AI applications with a hierarchical lexical graph and BYOKG-RAG.
 * [loom :fire:](https://github.com/awslabs/loom) - Enterprise-grade platform for building, deploying, and governing AI agents on Amazon Bedrock AgentCore and Strands Agents.
 * [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 * [mcp :fire::fire::fire::fire::fire:](https://github.com/awslabs/mcp) - MCP servers for AWS documentation, infrastructure, and service workflows.
+* [unified-kg-rag-on-aws](https://github.com/awslabs/unified-kg-rag-on-aws) - Knowledge-graph RAG framework that runs Microsoft GraphRAG and LightRAG retrieval on one stack of Amazon Bedrock, Neptune, and OpenSearch.
 
 Community Repos:
 
@@ -990,6 +994,10 @@ Community Repos:
 * [nathanmarz/storm-deploy :fire::fire::fire: :zzz:](https://github.com/nathanmarz/storm-deploy) - One click deploy for Storm clusters.
 
 ### DevOps
+
+AWS Repos:
+
+* [tools-for-devops-agent](https://github.com/aws/tools-for-devops-agent) - Skills, custom agents, and MCP servers that extend AWS DevOps Agent for incident response and root cause analysis.
 
 Community Repos:
 
