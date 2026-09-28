@@ -473,6 +473,7 @@ AWS Repos:
 Community Repos:
 
 * [Appliscale/perun :hourglass:](https://github.com/Appliscale/perun) - A CLI tool for linting/validation and managing CloudFormation templates and stacks.
+* [aws-devtools-labs/aws-blocks :fire::fire:](https://github.com/aws-devtools-labs/aws-blocks) - Composable TypeScript backend building blocks that run locally without an AWS account and deploy to AWS through CDK.
 * [beaknit/cform :fire: :zzz:](https://github.com/beaknit/cform) - SublimeText plugin.
 * [cloudreach/sceptre :fire::fire::fire::fire:](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation.
 * [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions.
@@ -825,7 +826,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [aws-bench/aws-bench :fire:](https://github.com/aws-bench/aws-bench) - Open-source benchmark that scores AI coding agents on real AWS tasks run against disposable AWS environments.
 
 ### Marketplace
 
@@ -1083,6 +1084,7 @@ Community Repos:
 * [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - CLI tool for AWS account health checks, cost analysis, and detecting unused resources.
 * - [elleVas/cloudrift](https://github.com/elleVas/cloudrift) - Read-only CLI that scans AWS accounts for wasted resources and security misconfigurations (44 checks total), with CI/CD budget gates and MCP server support for AI agents.
 * [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator. Drop-in replacement for development and testing.
+* [floci-io/floci :fire::fire::fire::fire::fire:](https://github.com/floci-io/floci) - Free, open-source local AWS emulator and drop-in LocalStack alternative that needs no account or auth token.
 * [TocConsulting/awsmap](https://github.com/TocConsulting/awsmap) - Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions.
 * [segmentio/stack :fire::fire::fire::fire::fire: :hourglass:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
 * [GoogleCloudPlatform/terraformer :fire::fire::fire::fire::fire:](https://github.com/GoogleCloudPlatform/terraformer#use-with-aws) - A tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform). (Originally from Waze SRE team, but mostly cloud-agnostic)
@@ -1091,6 +1093,7 @@ Community Repos:
 * [jvehent/haproxy-aws :fire::fire: :zzz:](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
 * [localstack/localstack :fire::fire::fire::fire::fire:](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 * [meducation/propono :fire::fire:](https://github.com/meducation/propono) - Easy-to-use pub/sub in Ruby.
+* [ministackorg/ministack :fire::fire::fire::fire::fire:](https://github.com/ministackorg/ministack) - Free, open-source local AWS emulator covering 60+ services on a single port, compatible with Terraform, CDK, and the AWS SDKs.
 * [mozilla/awsbox :fire::fire::fire: :zzz:](https://github.com/mozilla/awsbox) - A featherweight PaaS on top of EC2 for deploying node apps.
 * [Netflix/aminator :fire::fire::fire: :hourglass:](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
 * [Netflix/archaius :fire::fire::fire::fire::fire:](https://github.com/Netflix/archaius) - Library for configuration management API.
@@ -1107,6 +1110,7 @@ Community Repos:
 * [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
 * [mhart/react-server-routing-example :fire::fire: :zzz:](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
 * [Similarweb/finala :fire::fire::fire: :hourglass:](https://github.com/similarweb/finala) - A resource cloud scanner that analyzes and reports wasteful and unused resources to cut unwanted expenses.
+* [sivchari/kumo :fire::fire::fire::fire:](https://github.com/sivchari/kumo) - Lightweight AWS service emulator written in Go, shipped as a single binary for CI and local development.
 * [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
 * [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
 * [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
